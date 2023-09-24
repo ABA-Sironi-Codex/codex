@@ -3,8 +3,8 @@ site_name: ABA Sironi | CODEX
 theme:
   name: material
   language: it
-  # logo: assets/logo/logo.png
-  # favicon: assets/logo/logo.png
+  logo: assets/logo.png
+  favicon: assets/logo.png
   font:
     text: Source Sans 3
     code: Source Code Pro
