@@ -1,6 +1,17 @@
 site_name: ABA Sironi | CODEX
 
 theme:
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.path
+    - navigation.prune
+    - navigation.indexes
+    - navigation.top
   name: material
   language: it
   logo: assets/logo.png
@@ -24,3 +35,10 @@ theme:
       primary: blue grey
       accent: amber
 
+nav:
+#- Info:
+#  - index.md
+- ABA Sironi:
+  - http://accademiasironi.it
+- GitHub Repository:
+  - https://github.com/ABA-Sironi-Codex
