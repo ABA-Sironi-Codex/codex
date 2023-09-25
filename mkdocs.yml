@@ -1,6 +1,16 @@
 site_name: ABA Sironi | CODEX
 
 extra:
+  consent:
+    title: Gestione cookie
+    description: Questo sito utilizza i cookie esclusivamente per le metriche delle visite ricevute e non esegue alcun tipo di profilazione utente, né richiede alcun dato personale.<br>Il vostro consenso ci aiuta a migliorare questa pubblicazione.
+    actions:
+      - accept
+      - manage
+      - reject 
+  
+
+  homepage: https://codex.accademiasironi.it
   analytics:
     provider: google
     property: G-RL28EM6KVR
