@@ -12,24 +12,35 @@ Il progetto è stato realizzato nel 2023 dall'_Unità di Ricerca per la Creativi
 
 Il progetto si compone:
 
-- Area GitHub - Contiene tutti i repository ABA Sironi.
-- Aree Discussioni - attivate in ogni repository.
+- [Area GitHub](https://github.com/ABA-Sironi-Codex) - Contiene tutti i _repository_ ABA Sironi.
+- [Area Discussioni](https://github.com/orgs/ABA-Sironi-Codex/discussions) - Per interventi veloci, richiedere maggiori informazioni, segnalare inesattezze, etc.
 - Codex (questo sito) - Riunisce tutti i testi prodotti ed è uno dei repository dell'Area GitHub.
-- Codex YT - Canale YouTube, per la pubblicazione di tutti i video e gli audio contenuti nei post del sito.
-- Pagina Facebook - Usata esclusivamente per comunicare ai sottoscrittori la disponibilità di nuovi contenuti (non è possibile rispondere ai post).
-- Codex Tgram - Usata esclusivamente per comunicare ai sottoscrittori la disponibilità di nuovi contenuti (non è possibile rispondere ai post).
+- Codex YT - Canale YouTube, per la pubblicazione di tutti i video e gli audio contenuti nei post del sito. In via di attivazione.
+
+## Newsletter
+
+Per rimanere aggiornati sui contenuti pubblicati, è possibile sottoscrivere l'invio di una _newsletter_.
+
+La cadenza di invio è di bassa intensità e non regolare: ogni due settimane circa o meno. La _newsletter_ non contiene alcuna forma di pubblicità, l'unico dato richiesto per l'iscrizione è un indirizzo email e l'iscrizione può essere cancellata direttamente (e, in caso di ripensamenti, riattivata) attraverso questi due moduli:
+
+- Modulo Richiesta Invio Newsletter;
+- Modulo Cancellazione Invio Newsletter.
 
 ## Licenze d'uso
 
 !!! quote inline end "CreativeCommons License"
 
- 	<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://codex.accademiasironi.it">ABA Sironi Codex</a> by <span property="cc:attributionName">Davide Riboli on behalf of <a href="http://accademiasironi.it" target="_blank">Accademia di Belle Arti "Mario Sironi" (Sassari, ITALY)</a></span> is licensed under <a href="http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution-NonCommercial-NoDerivatives 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1"></a></p> 
+ 	<p align="center" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://codex.accademiasironi.it">ABA Sironi Codex</a><br>by<br><span property="cc:attributionName"><a href="http://accademiasironi.it" target="_blank">Accademia di Belle Arti "Mario Sironi" (Sassari, ITALY)</a></span><br>is licensed under<br><a href="http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution-NonCommercial-NoDerivatives 4.0 International</a></p> 
 
-Tutti i contenuti di proprietà della Accademia di Belle Arti "Mario Sironi" vengono pubblicati sotto licenza CreativeCommons di tipo _CC BY-NC-ND 4.0 Attribution-NonCommercial-NoDerivatives 4.0 International_. Questo significa che la licenza impone, nel caso di riutilizzo, che i riutilizzatori citino sempre la fonte (questo sito: https://codex.accademiasironi.it).
+Tutti i contenuti dei _post_ di questo sito, di proprietà della Accademia di Belle Arti "Mario Sironi", vengono pubblicati sotto licenza CreativeCommons di tipo _CC BY-NC-ND 4.0 Attribution-NonCommercial-NoDerivatives 4.0 International_.
+
+Questo significa che la licenza impone, nel caso di riutilizzo, che i riutilizzatori citino sempre la fonte (questo sito: [https://codex.accademiasironi.it](https://codex.accademiasironi.it)).
 
 Inoltre ai riutilizzatori è concesso copiare e distribuire il materiale su qualsiasi supporto o formato, esclusivamente senza adattamenti d'alcun tipo e solo per scopi non commerciali.
 
-Il testo esteso della licenza è disponibile a questo link: [https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en).
+Il testo esteso della licenza è disponibile a questo link: [https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en).
+
+Tutti i codici di tutti i _repository_ del progetto contengono sempre la licenza d'uso (di solito, MIT License).
 
 ## Colophon
 

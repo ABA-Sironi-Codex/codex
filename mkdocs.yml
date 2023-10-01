@@ -62,16 +62,6 @@ theme:
       primary: blue grey
       accent: amber
 
-
-
-# nav:
-#   - Codex:
-#     - index.md
-#   - Tag:
-#     - tags.md
-#   - GitHub:
-#     - https://github.com/ABA-Sironi-Codex
-
 extra:
   generator: false
   consent:
@@ -86,7 +76,7 @@ extra:
     provider: google
     property: G-RL28EM6KVR
   social:
-    - icon: fontawesome/brands/mastodon
-      link: https://fosstodon.org/@squidfunk  
-copyright: <a href="http://accademiasironi.it" target="_blank">ABA "Sironi", Sassari (IT)</a> 
+    - icon: fontawesome/brands/github
+      link: https://github.com/ABA-Sironi-Codex  
+copyright: ABA "Sironi", Sassari (IT)
 
