@@ -1,5 +1,6 @@
 ---
 date: 2023-10-01
+draft: true
 title: Letture consigliate | Ottobre 2023
 description: Un elenco di ottime letture inerenti questioni legate all'Arte Generatività, alla Creatività Computazionale e alla loro didattica (ottobre 2023). 
 authors: 
@@ -10,7 +11,7 @@ tags:
  
 # Letture consigliate | Ottobre 2023
 
-Raccolta di letture inerenti questioni legate all'Arte Generatività, alla Creatività Computazionale e alla loro didattica. Il _post_ è in costante aggiornamento per tutto il mese di riferimento.
+Proposte di lettura legate all'Arte Generativa, alla Creatività Computazionale e alla loro didattica. Il _post_ è in costante aggiornamento per tutto il mese di riferimento.
  <!-- more -->
 ---
 
