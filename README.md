@@ -4,4 +4,4 @@ Questo _repository_ contiene tutti i file di [Codex](https://codex.accademiasiro
 
 Il sito è generato attraverso le [GitHub Pages](https://pages.github.com/) e lo _script_ [Material4MKdocs](https://squidfunk.github.io/mkdocs-material/).
 
-L'URL del sito (non ancora attivo!) sarà https://codex.accademiasironi.it.
+L'URL del sito è visibile all'URL: https://codex.accademiasironi.it.
