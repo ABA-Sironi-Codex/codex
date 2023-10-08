@@ -17,14 +17,21 @@ Il progetto si compone:
 - Codex (questo sito) - Riunisce tutti i testi prodotti ed è uno dei repository dell'Area GitHub.
 - Codex YT - Canale YouTube, per la pubblicazione di tutti i video e gli audio contenuti nei post del sito. In via di attivazione.
 
+## Contributi
+
+Chiunque può proporre la pubblicazione di contributi dopo averli formattati tenendo presenti queste semplici linee guida.
+
+- I testi devono essere formattati in [markdown](https://www.markdownguide.org/) e le citazioni secondo lo [stile MLA](https://library.nic.bc.ca/c.php?g=726538&p=5207740).
+- Qualsiasi altro media (immagini, audio, video) deve essere accompagnato da didascalie esplicative e, logicamente, l'autore deve detenere i diritti di pubblicazione.
+- Sono esclusi contributi di carattere non inerente e/o privi di interesse scientifico. 
+
+I contributi vanno inviati a codexATaccademiasironi.it.
+
 ## Newsletter
 
 Per rimanere aggiornati sui contenuti pubblicati, è possibile sottoscrivere l'invio di una _newsletter_.
 
-La cadenza di invio è di bassa intensità e non regolare: ogni due settimane circa o meno. La _newsletter_ non contiene alcuna forma di pubblicità, l'unico dato richiesto per l'iscrizione è un indirizzo email e l'iscrizione può essere cancellata direttamente (e, in caso di ripensamenti, riattivata) attraverso questi due moduli:
-
-- Modulo Richiesta Invio Newsletter;
-- Modulo Cancellazione Invio Newsletter.
+La cadenza di invio è di bassa intensità e non regolare: ogni mese circa o meno. La _newsletter_ non contiene alcuna forma di pubblicità e l'iscrizione può essere cancellata direttamente (e, in caso di ripensamenti, riattivata). Qui il modulo per isriversi: [https://forms.gle/uYitLWT8V9AHiD5d9](https://forms.gle/uYitLWT8V9AHiD5d9).
 
 ## Licenze d'uso
 

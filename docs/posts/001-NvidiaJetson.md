@@ -13,7 +13,7 @@ tags:
  
 # Jetson Community Projects
 
-Breve introduzione e principali link di riferimento alla _community_ di _creators_ nata intorno ai nuovi prodotti a basso costo Nvidia per IA e robotica.
+Breve introduzione alla _community_ di _creators_ nata intorno ai nuovi prodotti a basso costo Nvidia per IA e robotica.
  <!-- more -->
 ---
 
@@ -22,14 +22,14 @@ Non so se il nome scelto da Nvidia per la sua [piattaforma di prodotti a basso c
 Intorno a prodotti di nuova concezione, dai consumi e dai costi contenuti, è sorta una comunità di sviluppatori e _creators_ che condivide i propri progetti attraverso GitHub e la pagina del sito Nvidia che funge da [indice dei Jetson Community Projects](https://developer.nvidia.com/embedded/community/jetson-projects).
 
 <figure markdown>
-  ![Jetson Community Projects](NvidiaDev.png){ width="300" }
+  ![Jetson Community Projects](NvidiaDev.jpg){ width="500" }
   <figcaption>Alcuni dei Jetson Community Projects disponibili</figcaption>
 </figure>
 
-La raccolta si compone (al momento in cui scrivo) di 189 progetti diversi progetti, tutti corredati da ottima documentazione, diffusa attraverso _repository_ dedicati in GitLab o sistemi simili. I progetti appartengono a varie aree d'applicazione della Intelligenza Artificiale, dal riconoscimento immagini alla robotica avanzata e sono tutti realizzabili in proprio, a costi assai contenuti.
+La raccolta si compone (al momento in cui scrivo) di 189 progetti diversi progetti, tutti corredati da ottima documentazione, diffusa attraverso _repository_ dedicati in GitLab o simili. I progetti appartengono a varie aree d'applicazione della Intelligenza Artificiale, dal riconoscimento immagini alla robotica avanzata e sono tutti realizzabili in proprio, a costi assai contenuti.
 
 Particolare attenzione è rivolta alla formazione, con un [programma _educational_ dedicato](https://developer.nvidia.com/embedded/learn/jetson-ai-education).    
 
 ---
 
-Discussioni, commenti e contributi possono essere pubblicati attraverso l'[area dedicata](https://github.com/orgs/ABA-Sironi-Codex/discussions).
+Commenti e contributi possono essere inviati attraverso l'[area dedicata](https://github.com/orgs/ABA-Sironi-Codex/discussions).

@@ -4,4 +4,4 @@ description: Risorse di Arte Generativa e Creatività Computazionale a cura dell
 ---
 !!! quote inline end "Aggiornamenti"
 
- 	Per ricevere gli aggiornamenti sui contenuti pubblicati, potete iscrivervi alla [newsletter](info/#newsletter). 
+ 	Per ricevere gli aggiornamenti sui contenuti pubblicati, potete iscrivervi alla [newsletter](https://forms.gle/uYitLWT8V9AHiD5d9). 
