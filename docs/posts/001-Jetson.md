@@ -21,7 +21,7 @@ Non so se il nome scelto da Nvidia per la sua [piattaforma di prodotti a basso c
 
 Intorno a prodotti di nuova concezione, dai consumi e dai costi contenuti, è sorta una comunità di sviluppatori e _creators_ che condivide i propri progetti attraverso GitHub e la pagina del sito Nvidia che funge da [indice dei Jetson Community Projects](https://developer.nvidia.com/embedded/community/jetson-projects).
 
-La raccolta si compone (al momento in cui scrivo) di 189 progetti diversi progetti, tutti corredati da ottima documentazione, diffusa attraverso _repository_ dedicati in GitHub o sistemi simili. I progetti appartengono a varie aree d'applicazione della Intelligenza Artificiale, dal riconoscimento immagini alla robotica avanzata e sono tutti realizzabili in proprio, a costi assai contenuti.
+La raccolta si compone (al momento in cui scrivo) di 189 progetti diversi progetti, tutti corredati da ottima documentazione, diffusa attraverso _repository_ dedicati in GitLab o sistemi simili. I progetti appartengono a varie aree d'applicazione della Intelligenza Artificiale, dal riconoscimento immagini alla robotica avanzata e sono tutti realizzabili in proprio, a costi assai contenuti.
 
 Particolare attenzione è rivolta alla formazione, con un [programma _educational_ dedicato](https://developer.nvidia.com/embedded/learn/jetson-ai-education).    
 
