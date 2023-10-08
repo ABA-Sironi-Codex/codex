@@ -25,13 +25,15 @@ Chiunque può proporre la pubblicazione di contributi dopo averli formattati ten
 - Qualsiasi altro media (immagini, audio, video) deve essere accompagnato da didascalie esplicative e, logicamente, l'autore deve detenere i diritti di pubblicazione.
 - Sono esclusi contributi di carattere non inerente e/o privi di interesse scientifico. 
 
-I contributi vanno inviati a codexATaccademiasironi.it.
+I contributi vanno inviati a _codexATaccademiasironi.it_ (sostituite AT con @).
 
 ## Newsletter
 
 Per rimanere aggiornati sui contenuti pubblicati, è possibile sottoscrivere l'invio di una _newsletter_.
 
-La cadenza di invio è di bassa intensità e non regolare: ogni mese circa o meno. La _newsletter_ non contiene alcuna forma di pubblicità e l'iscrizione può essere cancellata direttamente (e, in caso di ripensamenti, riattivata). Qui il modulo per isriversi: [https://forms.gle/uYitLWT8V9AHiD5d9](https://forms.gle/uYitLWT8V9AHiD5d9).
+La cadenza di invio è di bassa intensità e non regolare: ogni mese circa o meno. La _newsletter_ non contiene alcuna forma di pubblicità, l'iscrizione può essere cancellata direttamente e, in caso di ripensamenti, riattivata.
+
+Qui il modulo per iscriversi: [https://forms.gle/uYitLWT8V9AHiD5d9](https://forms.gle/uYitLWT8V9AHiD5d9).
 
 ## Licenze d'uso
 
@@ -53,11 +55,20 @@ Tutti i codici di tutti i _repository_ del progetto contengono sempre la licenza
 
 Questo sito è stato realizzato nel settembre 2023, dal prof. Davide Riboli della Accademia di Belle Arti "Mario Sironi" di Sassari, utilizzando:
 
+- [Chocolatey](https://chocolatey.org/)
+- [Creative Commons](https://creativecommons.org/)
 - [Git](https://git-scm.com/)
 - [GitHub](https://github.com/)
 - [GitHub Pages](https://pages.github.com/)
+- [Google Analytics](https://analytics.google.com/)
+- [Google Drive](https://drive.google.com)
+- [IrfanView](https://www.irfanview.com/)
 - [Material for MK Docs](https://squidfunk.github.io/mkdocs-material/)
+- [Sender](https://sender.net)
 - [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro)
 - [Source Sans 3](https://fonts.google.com/specimen/Source+Sans+3)
 - [SublimeMerge](https://www.sublimemerge.com/)
 - [SublimeText](https://www.sublimetext.com/)
+- [YouTube](https://youtube.com)
+
+---
