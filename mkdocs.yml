@@ -18,7 +18,7 @@ plugins:
       archive: false
       categories: false
       post_url_format: "{slug}"
-      authors: false
+      authors: true
       pagination: true
       pagination_per_page: 3
       post_readtime_words_per_minute: 250
