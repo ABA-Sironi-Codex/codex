@@ -2,4 +2,8 @@ authors:
   DR:
     name: Prof. Davide Riboli        # Author name
     description: Cattedra di Applicazioni Digitali per l'Arte # Author description
-    avatar: assets/authors/dr.jpg  # Author avatar
+    avatar: https://codex.accademiasironi.it/assets/authors/dr.jpg  # Author avatar
+  ABA:
+    name: CREA        # Author name
+    description: Unità di Ricerca Creatività Computazionale - ABA Sironi # Author description
+    avatar: https://codex.accademiasironi.it/assets/logo.png  # Author avatar
