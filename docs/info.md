@@ -62,6 +62,7 @@ Questo sito è stato realizzato nel settembre 2023, dal prof. Davide Riboli dell
 - [GitHub Pages](https://pages.github.com/)
 - [Google Analytics](https://analytics.google.com/)
 - [Google Drive](https://drive.google.com)
+- [Google Forms](https://www.google.it/intl/it/forms/about/)
 - [IrfanView](https://www.irfanview.com/)
 - [Material for MK Docs](https://squidfunk.github.io/mkdocs-material/)
 - [Sender](https://sender.net)

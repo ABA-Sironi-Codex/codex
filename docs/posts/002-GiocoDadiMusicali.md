@@ -12,7 +12,7 @@ tags:
  
 # Alea Iacta Est (Il Gioco dei Dadi Musicali)
 
-Anche se il sito deve ancora iniziare le sue pubblicazioni, ho "forkato" (lo so, è un neologismo terribile...) tra i nostri _repository_, il bellissimo lavoro di [Guillermo Brachetta](https://github.com/GBrachetta) che implementa in forma interattiva il famoso [gioco dei dadi musicali](https://en.wikipedia.org/wiki/Musikalisches_W%C3%BCrfelspiel) attribuito a Mozart.
+Ho "forkato" (lo so, è un neologismo terribile...) tra i nostri _repository_, il bellissimo lavoro di [Guillermo Brachetta](https://github.com/GBrachetta) che implementa in forma interattiva il famoso [gioco dei dadi musicali](https://en.wikipedia.org/wiki/Musikalisches_W%C3%BCrfelspiel) attribuito a Mozart.
  <!-- more -->
  ---
 
