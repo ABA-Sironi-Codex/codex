@@ -9,7 +9,7 @@ tags:
   - Arte Generativa
   - Musica Generativa
 ---
- 
+
 # Alea Iacta Est (Il Gioco dei Dadi Musicali)
 
 Ho "forkato" (lo so, è un neologismo terribile...) tra i nostri _repository_, il bellissimo lavoro di [Guillermo Brachetta](https://github.com/GBrachetta) che implementa in forma interattiva il famoso [gioco dei dadi musicali](https://en.wikipedia.org/wiki/Musikalisches_W%C3%BCrfelspiel) attribuito a Mozart.
@@ -32,4 +32,5 @@ La composizione aleatoria è una parte fondamentale dell'Arte Generativa e la re
 
 ---
 
-Commenti e contributi possono essere inviati attraverso l'[area dedicata](https://github.com/orgs/ABA-Sironi-Codex/discussions).
+- [Commenti e contributi](https://github.com/orgs/ABA-Sironi-Codex/discussions)
+- [Newsletter](https://forms.gle/uYitLWT8V9AHiD5d9)

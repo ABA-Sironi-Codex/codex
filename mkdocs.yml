@@ -41,7 +41,7 @@ theme:
     - navigation.top
   name: material
   language: it
-  logo: assets/logo.png
+  logo: assets/logo.gif
   favicon: assets/logo.png
   font:
     text: Source Sans 3

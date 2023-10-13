@@ -32,4 +32,5 @@ Particolare attenzione è rivolta alla formazione, con un [programma _educationa
 
 ---
 
-Commenti e contributi possono essere inviati attraverso l'[area dedicata](https://github.com/orgs/ABA-Sironi-Codex/discussions).
+- [Commenti e contributi](https://github.com/orgs/ABA-Sironi-Codex/discussions)
+- [Newsletter](https://forms.gle/uYitLWT8V9AHiD5d9)
