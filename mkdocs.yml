@@ -18,20 +18,26 @@ markdown_extensions:
   - meta
 
 plugins:
-  - search:
-      lang: it
-  - tags:
-      tags_file: tag.md
-  - blog:
-      blog_dir: .
-      archive: false
-      categories: false
-      post_url_format: "{slug}"
-      authors: true
-      pagination: true
-      pagination_per_page: 3
-      post_readtime_words_per_minute: 250
-  - glightbox
+ - search:
+     lang: it
+ - social:
+    cards_layout_options:
+     cards_dir: assets/images/social
+     background_color: "#546D78"
+     color: "#FFFFFF"
+     font_family: "Source Code Pro"
+ - tags:
+     tags_file: tag.md
+ - blog:
+     blog_dir: .
+     archive: false
+     categories: false
+     post_url_format: "{slug}"
+     authors: true
+     pagination: true
+     pagination_per_page: 3
+     post_readtime_words_per_minute: 250
+ - glightbox
 
 theme:
   custom_dir: overrides
