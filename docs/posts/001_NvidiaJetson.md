@@ -21,8 +21,9 @@ Non so se il nome scelto da Nvidia per la sua [piattaforma di prodotti a basso c
 
 Intorno a prodotti di nuova concezione, dai consumi e dai costi contenuti, è sorta una comunità di sviluppatori e _creators_ che condivide i propri progetti attraverso la pagina del sito Nvidia che funge da [indice dei Jetson Community Projects](https://developer.nvidia.com/embedded/community/jetson-projects).
 
+
 <figure markdown>
-  ![Jetson Community Projects](NvidiaDev.jpg){ width="500" }
+  ![Jetson Community Projects](001_NvidiaJetson.jpg){ width="500" }
   <figcaption>Alcuni dei Jetson Community Projects disponibili</figcaption>
 </figure>
 

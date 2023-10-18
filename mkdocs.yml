@@ -1,12 +1,21 @@
 site_name: ABA Sironi | CODEX
 
 markdown_extensions:
+  - pymdownx.highlight:
+      linenums: true
+      anchor_linenums: false
+      auto_title: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
   - footnotes
   - attr_list
   - md_in_html
   - admonition
-  - pymdownx.details
-  - pymdownx.superfences
+  - tables
+  - meta
 
 plugins:
   - search:
@@ -39,10 +48,11 @@ theme:
     - navigation.prune
     - navigation.indexes
     - navigation.top
+    - content.code.copy
   name: material
   language: it
   logo: assets/logo.gif
-  favicon: assets/logo.png
+  favicon: assets/logo.gif
   font:
     text: Source Sans 3
     code: Source Code Pro

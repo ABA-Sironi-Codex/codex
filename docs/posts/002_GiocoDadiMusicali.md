@@ -19,7 +19,7 @@ Ho "forkato" (lo so, è un neologismo terribile...), il bel lavoro di [Guillermo
  Spero di trovare il tempo, più avanti, di cambiare/approfondire, alcune parti della documentazione, ma intanto potete già iniziare a comporre i vostri minuetti generativo-aleatori col sistema che trovate a questo URL: [https://github.com/ABA-Sironi-Codex/Musical-Dice](https://aba-sironi-codex.github.io/Musical-Dice/).
 
 <figure markdown>
-  ![Interfaccia Web Musical Dice](MusicalDice.jpg){ width="500" }
+  ![Interfaccia Web Musical Dice](002_GiocoDadiMusicali.jpg){ width="500" }
   <figcaption>Interfaccia web del <a href="https://aba-sironi-codex.github.io/Musical-Dice/" target="_blank">Gioco dei Dadi Musicali</a></figcaption>
 </figure>
 
