@@ -21,5 +21,5 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - run: pip install pillow cairosvg mkdocs-material mkdocs-roamlinks-plugin mkdocs-glightbox mkdocs-rss-plugin
+      - run: pip install mkdocs-material[imaging] mkdocs-roamlinks-plugin mkdocs-glightbox mkdocs-rss-plugin
       - run: mkdocs gh-deploy --force
