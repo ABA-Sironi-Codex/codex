@@ -8,6 +8,7 @@ tags:
   - Alea
   - Arte Generativa
   - Cmd
+comments: true
 ---
 
 # Pixel Art generativa via SSH
@@ -24,3 +25,5 @@ password: agglo
 ```
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZHMMqoeF4Jw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---

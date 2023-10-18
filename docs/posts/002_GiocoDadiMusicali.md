@@ -32,6 +32,3 @@ La composizione aleatoria è una parte fondamentale dell'Arte Generativa e la re
 - [La rilettura del Barbiere](https://www.albertozedda.com/la-rilettura-del-barbiere) | L'indimenticabile Direttore Alberto Zedda aiuta a comprendere come anche la partitura rossiniana de _Il barbiere di Siviglia_ potesse essere intesa, in un certo senso, come "aleatoria".  
 
 ---
-
-- [Commenti e contributi](https://github.com/orgs/ABA-Sironi-Codex/discussions)
-- [Newsletter](https://forms.gle/uYitLWT8V9AHiD5d9)

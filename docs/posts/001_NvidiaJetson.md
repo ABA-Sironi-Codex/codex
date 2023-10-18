@@ -33,6 +33,3 @@ La raccolta si compone (al momento in cui scrivo) di 189 progetti diversi proget
 Particolare attenzione è rivolta alla formazione, con un [programma _educational_ dedicato](https://developer.nvidia.com/embedded/learn/jetson-ai-education).    
 
 ---
-
-- [Commenti e contributi](https://github.com/orgs/ABA-Sironi-Codex/discussions)
-- [Newsletter](https://forms.gle/uYitLWT8V9AHiD5d9)

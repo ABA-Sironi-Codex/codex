@@ -4,18 +4,26 @@ description: Risorse di Arte Generativa e Creatività Computazionale a cura dell
 ---
 ## Informazioni generali
 
-Codex è un progetto della [Accademia di Belle Arti "Mario Sironi"](http://accademiasironi.it) di Sassari che ha lo scopo di archiviare, divulgare e sviluppare ricerche e risorse di Arte Generativa, Creatività Computazionale e, più in generale, qualsiasi altro algoritmo, codice e strumento digitale possa essere utile ai nostri docenti e studenti.
+Codex è un progetto della [Accademia di Belle Arti "Mario Sironi"](http://accademiasironi.it) di Sassari che ha lo scopo di archiviare, divulgare e sviluppare risorse di Arte Generativa, Creatività Computazionale e, più in generale, qualsiasi altro algoritmo, codice e strumento digitale possa essere utile alla Didattica dell'Arte e alle ricerche collegate.
 
-Il progetto è stato realizzato nel 2023 dall'_Unità di Ricerca per la Creatività Computazionale_ ABA Sironi (che per amor di brevità, chiamiamo CREA), composta dai docenti: Gian Luca Beccari, Paolo Carta, Daniele Dore, Diego Ganga, Pier Paolo Luvoni, Pietro Pirino, Davide Riboli, Antonio Salamone.
+Il progetto è stato realizzato nel 2023 dal prof. Davide Riboli, col sostegno e i contributi dei proff. Gian Luca Beccari, Paolo Carta, Daniele Dore, Diego Ganga, Pier Paolo Luvoni, Pietro Pirino e Antonio Salamone.
 
 ## Link
 
-Il progetto si compone:
+Il progetto si compone di:
 
-- [Area GitHub](https://github.com/ABA-Sironi-Codex) - Contiene tutti i _repository_ ABA Sironi.
-- [Area Discussioni](https://github.com/orgs/ABA-Sironi-Codex/discussions) - Per interventi veloci, richiedere maggiori informazioni, segnalare inesattezze, etc.
-- Codex (questo sito) - Riunisce tutti i testi prodotti ed è uno dei repository dell'Area GitHub.
+- [Area GitHub](https://github.com/ABA-Sironi-Codex) - Tutti i _repository_ di codice e risorse ABA Sironi.
+- Codex (questo sito) - Riunisce tutti i testi prodotti ed è a sua volta uno dei _repository_ dell'Area GitHub.
+- [Area Discussioni](https://github.com/orgs/ABA-Sironi-Codex/discussions) - È possibile commentare i singoli articoli del sito (necessario un account GitHub) o segnalare bug di codice nelle aree apposite correlate ad ogni _repository_.
 - Codex YT - Canale YouTube, per la pubblicazione di tutti i video e gli audio contenuti nei post del sito. In via di attivazione.
+
+## Newsletter
+
+Per rimanere aggiornati sui contenuti pubblicati, è possibile sottoscrivere l'invio di una _newsletter_.
+
+La cadenza di invio è di bassa intensità e non regolare: ogni mese circa o meno. La _newsletter_ non contiene alcuna forma di pubblicità, l'iscrizione può essere cancellata direttamente e, in caso di ripensamenti, riattivata.
+
+Qui il modulo per iscriversi: [https://forms.gle/uYitLWT8V9AHiD5d9](https://forms.gle/uYitLWT8V9AHiD5d9).
 
 ## Contributi
 
@@ -26,14 +34,6 @@ Chiunque può proporre la pubblicazione di contributi dopo averli formattati ten
 - Sono esclusi contributi di carattere non inerente e/o privi di interesse scientifico. 
 
 I contributi vanno inviati a _codexATaccademiasironi.it_ (sostituite AT con @).
-
-## Newsletter
-
-Per rimanere aggiornati sui contenuti pubblicati, è possibile sottoscrivere l'invio di una _newsletter_.
-
-La cadenza di invio è di bassa intensità e non regolare: ogni mese circa o meno. La _newsletter_ non contiene alcuna forma di pubblicità, l'iscrizione può essere cancellata direttamente e, in caso di ripensamenti, riattivata.
-
-Qui il modulo per iscriversi: [https://forms.gle/uYitLWT8V9AHiD5d9](https://forms.gle/uYitLWT8V9AHiD5d9).
 
 ## Licenze d'uso
 
@@ -53,10 +53,11 @@ Tutti i codici di tutti i _repository_ del progetto contengono sempre la licenza
 
 ## Colophon
 
-Questo sito è stato realizzato nel settembre 2023, dal prof. Davide Riboli della Accademia di Belle Arti "Mario Sironi" di Sassari, utilizzando:
+Questo sito è stato realizzato nel settembre 2023, utilizzando:
 
 - [Chocolatey](https://chocolatey.org/)
 - [Creative Commons](https://creativecommons.org/)
+- [Giscus](https://giscus.app)
 - [Git](https://git-scm.com/)
 - [GitHub](https://github.com/)
 - [GitHub Pages](https://pages.github.com/)
