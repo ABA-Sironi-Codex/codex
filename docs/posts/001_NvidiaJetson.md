@@ -9,6 +9,7 @@ tags:
   - Intelligenza Artificiale
   - Nvidia
   - Robotica
+comments: true
 ---
  
 # Jetson Community Projects

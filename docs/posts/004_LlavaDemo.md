@@ -7,6 +7,7 @@ authors:
 tags:
   - LLM
   - Intelligenza Artificiale
+comments: true
 ---
 
 Llava (_Large Language and Vision Assistant_) è un modello multimodale, addestrato da un gruppo di ricercatori Microsoft, in grado di sostenere dialoghi con esseri umani e riconoscere immagini, basato su [Vicuna](https://lmsys.org/blog/2023-03-30-vicuna/) un modello linguistico _Open Source_ già in grado di offrire il 90% della "qualità" di ChatGPT.

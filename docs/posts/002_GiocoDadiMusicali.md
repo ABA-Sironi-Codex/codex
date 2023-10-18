@@ -8,6 +8,7 @@ tags:
   - Alea
   - Arte Generativa
   - Musica Generativa
+comments: true
 ---
 
 # Alea Iacta Est (Il Gioco dei Dadi Musicali)
