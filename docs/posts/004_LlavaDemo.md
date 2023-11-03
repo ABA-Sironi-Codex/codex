@@ -1,7 +1,7 @@
 ---
 date: 2023-10-18
 title: Llava (con demo)
-description: Llava è la prima alternativa Open Source a ChatGPT, di qualità simile. 
+description: Llava è la prima alternativa Open Source a ChatGPT. 
 authors: 
   - DR
 tags:
