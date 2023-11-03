@@ -1,5 +1,5 @@
 ---
-date: 2023-11-02
+date: 2023-11-01
 title: Stable Diffusion Wiki
 description: Esempi, risorse e tutorial per SD. 
 authors: 
