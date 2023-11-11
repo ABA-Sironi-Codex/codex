@@ -13,7 +13,7 @@ tags:
   - Intelligenza Artificiale
   - Musica Generativa
   - AI Prompt
-  - Stabe Diffusion
+  - Stable Diffusion
 comments: true
 ---
 

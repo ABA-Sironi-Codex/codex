@@ -10,7 +10,7 @@ tags:
   - LLM
   - Intelligenza Artificiale
   - AI Prompt
-  - Stabe Diffusion
+  - Stable Diffusion
 comments: true
 ---
 
