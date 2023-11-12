@@ -14,8 +14,8 @@ Il progetto si compone di:
 
 - [Area GitHub](https://github.com/ABA-Sironi-Codex) - Tutti i _repository_ di codice e risorse ABA Sironi.
 - Codex (questo sito) - Riunisce tutti i testi prodotti ed è a sua volta uno dei _repository_ dell'Area GitHub.
-- [Area Discussioni](https://github.com/orgs/ABA-Sironi-Codex/discussions) - È possibile commentare i singoli articoli del sito (necessario un account GitHub) o segnalare bug di codice nelle aree apposite correlate ad ogni _repository_.
-- Codex YT - Canale YouTube, per la pubblicazione di tutti i video e gli audio contenuti nei post del sito. In via di attivazione.
+- [Area Discussioni](https://github.com/orgs/ABA-Sironi-Codex/discussions) - È possibile commentare i singoli articoli del sito (necessario un account GitHub) o segnalare bug di codice nelle aree apposite correlate ad ogni _repository_ oppure scrivendo nella zona commenti di un singolo _post_.
+- [Codex YT](https://www.youtube.com/@Codex-ABA-Sironi) - Canale YouTube, per la pubblicazione di tutti i video e gli audio contenuti nei post del sito. In via di attivazione.
 
 ## Newsletter
 
