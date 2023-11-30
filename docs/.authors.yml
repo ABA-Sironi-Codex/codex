@@ -7,3 +7,11 @@ authors:
     name: CREA        # Author name
     description: Unità di Ricerca Creatività Computazionale - ABA Sironi # Author description
     avatar: https://codex.accademiasironi.it/assets/logo.gif  # Author avatar
+  AMS:
+    name: Anna Maria Sanna        # Author name
+    description: Scuola di Didattica dei Territori e Comunicazione Globale - ABA Sironi # Author description
+    avatar: https://codex.accademiasironi.it/assets/authors/anna.jpg  # Author avatar
+  MA:
+    name: Marika Ambrosino        # Author name
+    description: Scuola di Grafica d'Arte e Progettazione - ABA Sironi # Author description
+    avatar: https://codex.accademiasironi.it/assets/authors/marika.jpg  # Author avatar
