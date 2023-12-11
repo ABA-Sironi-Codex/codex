@@ -1,0 +1,150 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Codex",
+    "description": "",
+    "home_page_url": "https://codex.accademiasironi.it",
+    "feed_url": "https://codex.accademiasironi.it/feed.json",
+    "user_comment": "",
+    "icon": "https://codex.accademiasironi.it/media/website/logo.png",
+    "author": {
+        "name": "Prof. Davide Riboli"
+    },
+    "items": [
+        {
+            "id": "https://codex.accademiasironi.it/info/",
+            "url": "https://codex.accademiasironi.it/info/",
+            "title": "Info",
+            "summary": "Informazioni generali Codex è un progetto della Accademia di Belle Arti \"Mario Sironi\" di Sassari che ha lo scopo di archiviare, divulgare e&hellip;",
+            "content_html": "<h1>Informazioni generali</h1>\n<p>Codex è un progetto della <a href=\"http://accademiasironi.it/\">Accademia di Belle Arti \"Mario Sironi\"</a> di Sassari che ha lo scopo di archiviare, divulgare e sviluppare risorse di Arte Generativa, Creatività Computazionale e, più in generale, qualsiasi altro algoritmo, codice e strumento digitale possa essere utile alla Didattica dell'Arte e alle ricerche collegate.</p>\n<p>Il progetto è stato realizzato nel 2023 dal prof. Davide Riboli, col sostegno e i contributi dei proff. Gian Luca Beccari, Paolo Carta, Daniele Dore, Diego Ganga, Pier Paolo Luvoni, Pietro Pirino e Antonio Salamone.</p>\n<h2 id=\"link\">Link</h2>\n<p>Il progetto si compone di:</p>\n<ul>\n<li><a href=\"https://github.com/ABA-Sironi-Codex\">Area GitHub</a> - Tutti i <em>repository</em> di codice e risorse ABA Sironi.</li>\n<li>Codex (questo sito) - Riunisce tutti i testi prodotti ed è a sua volta uno dei <em>repository</em> dell'Area GitHub.</li>\n<li><a href=\"https://github.com/orgs/ABA-Sironi-Codex/discussions\">Area Discussioni</a> - È possibile commentare i singoli articoli del sito (necessario un account GitHub) o segnalare bug di codice nelle aree apposite correlate ad ogni <em>repository</em> oppure scrivendo nella zona commenti di un singolo <em>post</em>.</li>\n<li><a href=\"https://www.youtube.com/@Codex-ABA-Sironi\">Codex YT</a> - Canale YouTube, per la pubblicazione di tutti i video e gli audio contenuti nei post del sito. In via di attivazione.</li>\n</ul>\n<h2 id=\"newsletter\">Newsletter</h2>\n<p>Per rimanere aggiornati sui contenuti pubblicati, è possibile sottoscrivere l'invio di una <em>newsletter</em>.</p>\n<p>La cadenza di invio è di bassa intensità e non regolare: ogni mese circa o meno. La <em>newsletter</em> non contiene alcuna forma di pubblicità, l'iscrizione può essere cancellata direttamente e, in caso di ripensamenti, riattivata.</p>\n<p>Qui il modulo per iscriversi: <a href=\"https://forms.gle/uYitLWT8V9AHiD5d9\">https://forms.gle/uYitLWT8V9AHiD5d9</a>.</p>\n<h2 id=\"contributi\">Contributi</h2>\n<p>Chiunque può proporre la pubblicazione di contributi dopo averli formattati tenendo presenti queste semplici linee guida.</p>\n<ul>\n<li>I testi devono essere formattati in <a href=\"https://www.markdownguide.org/\">markdown</a> e le citazioni secondo lo <a href=\"https://library.nic.bc.ca/c.php?g=726538&amp;p=5207740\">stile MLA</a>.</li>\n<li>Qualsiasi altro media (immagini, audio, video) deve essere accompagnato da didascalie esplicative e, logicamente, l'autore deve detenere i diritti di pubblicazione.</li>\n<li>Sono esclusi contributi di carattere non inerente e/o privi di interesse scientifico.</li>\n</ul>\n<p>I contributi vanno inviati a <em>codexATaccademiasironi.it</em> (sostituite AT con @).</p>\n<h2 id=\"licenze-duso\">Licenze d'uso</h2>\n<div class=\"admonition quote inline end\">\n<p class=\"admonition-title\">CreativeCommons License</p>\n<p> </p>\n<p align=\"center\"><a property=\"dct:title\" rel=\"cc:attributionURL\" href=\"https://codex.accademiasironi.it/\">ABA Sironi Codex</a><br>by<br><a href=\"http://accademiasironi.it/\" target=\"_blank\" rel=\"noopener\">Accademia di Belle Arti \"Mario Sironi\" (Sassari, ITALY)</a><br>is licensed under<br><a href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1\" target=\"_blank\" rel=\"license noopener noreferrer\">Attribution-NonCommercial-NoDerivatives 4.0 International</a></p>\n<p> </p>\n</div>\n<p>Tutti i contenuti dei <em>post</em> di questo sito, di proprietà della Accademia di Belle Arti \"Mario Sironi\", vengono pubblicati sotto licenza CreativeCommons di tipo <em>CC BY-NC-ND 4.0 Attribution-NonCommercial-NoDerivatives 4.0 International</em>.</p>\n<p>Questo significa che la licenza impone, nel caso di riutilizzo, che i riutilizzatori citino sempre la fonte (questo sito: <a href=\"https://codex.accademiasironi.it/\">https://codex.accademiasironi.it</a>).</p>\n<p>Inoltre ai riutilizzatori è concesso copiare e distribuire il materiale su qualsiasi supporto o formato, esclusivamente senza adattamenti d'alcun tipo e solo per scopi non commerciali.</p>\n<p>Il testo esteso della licenza è disponibile a questo link: <a href=\"https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en\">https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en</a>.</p>\n<p>Tutti i codici di tutti i <em>repository</em> del progetto contengono sempre la licenza d'uso (di solito, MIT License).</p>\n<h2 id=\"colophon\">Colophon</h2>\n<p>Questo sito è stato realizzato nel settembre 2023, utilizzando:</p>\n<ul>\n<li><a href=\"https://chocolatey.org/\">Chocolatey</a></li>\n<li><a href=\"https://creativecommons.org/\">Creative Commons</a></li>\n<li><a href=\"https://giscus.app/\">Giscus</a></li>\n<li><a href=\"https://git-scm.com/\">Git</a></li>\n<li><a href=\"https://github.com/\">GitHub</a></li>\n<li><a href=\"https://pages.github.com/\">GitHub Pages</a></li>\n<li><a href=\"https://analytics.google.com/\">Google Analytics</a></li>\n<li><a href=\"https://drive.google.com/\">Google Drive</a></li>\n<li><a href=\"https://www.google.it/intl/it/forms/about/\">Google Forms</a></li>\n<li><a href=\"https://www.irfanview.com/\">IrfanView</a></li>\n<li><a href=\"https://squidfunk.github.io/mkdocs-material/\">Material for MK Docs</a></li>\n<li><a href=\"https://sender.net/\">Sender</a></li>\n<li><a href=\"https://fonts.google.com/specimen/Source+Code+Pro\">Source Code Pro</a></li>\n<li><a href=\"https://fonts.google.com/specimen/Source+Sans+3\">Source Sans 3</a></li>\n<li><a href=\"https://www.sublimemerge.com/\">SublimeMerge</a></li>\n<li><a href=\"https://www.sublimetext.com/\">SublimeText</a></li>\n<li><a href=\"https://youtube.com/\">YouTube</a></li>\n</ul>",
+            "author": {
+                "name": "Prof. Davide Riboli"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-12-11T16:55:32+01:00",
+            "date_modified": "2023-12-11T18:55:58+01:00"
+        },
+        {
+            "id": "https://codex.accademiasironi.it/guida-alla-installazione-veloce-di-automatic1111/",
+            "url": "https://codex.accademiasironi.it/guida-alla-installazione-veloce-di-automatic1111/",
+            "title": "Guida alla installazione veloce di Automatic1111",
+            "summary": "<p>Sul <a href=\"https://github.com/ABA-Sironi-Codex/Stable-Diffusion-Wiki/wiki\">wiki ABA Sironi dedicato a Stable Diffusion</a> e alle sue varie interfacce di controllo è disponnibile una guida all'installazione di Automatic1111 sotto Ms Windows con GPU Nvidia.</p>\n",
+            "content_html": "<p>Sul <a href=\"https://github.com/ABA-Sironi-Codex/Stable-Diffusion-Wiki/wiki\">wiki ABA Sironi dedicato a Stable Diffusion</a> e alle sue varie interfacce di controllo è disponnibile una guida all'installazione di Automatic1111 sotto Ms Windows con GPU Nvidia.</p>\n\n<ul>\n<li>Link diretto: <a href=\"https://github.com/ABA-Sironi-Codex/Stable-Diffusion-Wiki/wiki/Installazioni-veloci-Windows-(GPU-Nvidia)\">https://github.com/ABA-Sironi-Codex/Stable-Diffusion-Wiki/wiki/Installazioni-veloci-Windows-(GPU-Nvidia)</a></li>\n</ul>",
+            "image": "https://codex.accademiasironi.it/media/posts/2/011_GuidaInstallazioniStableD-2.webp",
+            "author": {
+                "name": "Prof. Davide Riboli"
+            },
+            "tags": [
+                   "stable diffusion",
+                   "automatic1111"
+            ],
+            "date_published": "2023-11-30T17:29:00+01:00",
+            "date_modified": "2023-12-11T19:29:00+01:00"
+        },
+        {
+            "id": "https://codex.accademiasironi.it/incontri-di-arte-generativa/",
+            "url": "https://codex.accademiasironi.it/incontri-di-arte-generativa/",
+            "title": "Incontri di Arte Generativa",
+            "summary": "<p>Sull'Area GitHub ABA Sironi è disponibile un nuovo <em>repository</em> di risorse introduttive all'Arte Generativa.</p>\n",
+            "content_html": "<p>Sull'Area GitHub ABA Sironi è disponibile un nuovo <em>repository</em> di risorse introduttive all'Arte Generativa.</p>\n\n<p>Nel 2023/24 il <a href=\"http://www.conservatorio.sassari.it\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Conservatorio \"Luigi Canepa\"</a> e l'<a href=\"http://accademiasironi.it\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Accademia di Belle Arti \"Mario Sironi\"</a>, entrambi di Sassari, hanno organizzato un ciclo di lezioni congiunte, per una selezione di studenti di entrambe le istituzioni, sull'Arte Generativa ed i principali strumenti compositivi di natura digitale ad essa correlati.</p>\n<p>L'iniziativa, curata e coordinata dal prof. Gian Luca Beccari (Cattedra di Progettazione Multimediale, ABA \"Sironi\") prevede un evento conclusivo in forma di installazione realizzata da tutti gli studenti (data e luogo ancora da decidersi).</p>\n<p>Sull'Area GitHub ABA Sironi è disponibile un <em>repository</em> con tutte le risorse di riferimento, messe a disposizione dai relatori invitati.</p>\n<ul>\n<li>Link diretto: <a href=\"https://github.com/ABA-Sironi-Codex/Lezioni-di-Arte-Generativa\">https://github.com/ABA-Sironi-Codex/Lezioni-di-Arte-Generativa</a></li>\n</ul>",
+            "image": "https://codex.accademiasironi.it/media/posts/3/010_LezioniArteGenerativa-2.webp",
+            "author": {
+                "name": "Prof. Davide Riboli"
+            },
+            "tags": [
+                   "videomapping",
+                   "touchdesigner",
+                   "resolume",
+                   "musica generativa",
+                   "madmapper",
+                   "arte generativa"
+            ],
+            "date_published": "2023-11-29T17:59:00+01:00",
+            "date_modified": "2023-12-11T18:55:14+01:00"
+        },
+        {
+            "id": "https://codex.accademiasironi.it/ex-machina-intelligenza-artificiale-e-creativita-computazionale/",
+            "url": "https://codex.accademiasironi.it/ex-machina-intelligenza-artificiale-e-creativita-computazionale/",
+            "title": "Ex Machina: Intelligenza Artificiale e Creatività Computazionale",
+            "summary": "<p>Registrazione completa dell'intervento tenuto dal prof. Davide Riboli, Cattedra di Applicazioni Digitali per l'Arte, il 9 novembre 2023 a Cagliari. </p>\n",
+            "content_html": "<p>Registrazione completa dell'intervento tenuto dal prof. Davide Riboli, Cattedra di Applicazioni Digitali per l'Arte, il 9 novembre 2023 a Cagliari. </p>\n\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"1000\" height=\"561\" src=\"https://www.youtube-nocookie.com/embed/ujfThYwgU-c\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<p>L'intervento ha concluso l'ultima tappa dell'iniziativa di alta formazione riservate ai docenti di Sardegna e dedicate alle Intelligenze Artificiali nella didattica, realizzata grazie ai fondi del PNRR 2023/24, in collaborazione con l'Accademia di Belle Arti di Sassari, le Università di Cagliari e Sassari e la partnership di DI.GI. Academy, Leonardo e Plenitude della Young Cybersecurity Academy, l'Istituto Dell’acqua di Legnano e il “N. Pellegrini” di Sassari.<br><br>Le giornate di studio si sono tenute a Sassari, Nuoro, Oristano e Cagliari e sono state coordinate da Simona Michelon e Mauro Solinas.</p>",
+            "author": {
+                "name": "Prof. Davide Riboli"
+            },
+            "tags": [
+                   "stable diffusion",
+                   "musica generativa",
+                   "intelligenza artificiale",
+                   "arte generativa"
+            ],
+            "date_published": "2023-11-11T18:11:00+01:00",
+            "date_modified": "2023-12-11T18:55:04+01:00"
+        },
+        {
+            "id": "https://codex.accademiasironi.it/immagini-fotorealistiche-con-comfy-ui-realisticvision-e-baddream-unrealisticdream-fastnegative-embedding/",
+            "url": "https://codex.accademiasironi.it/immagini-fotorealistiche-con-comfy-ui-realisticvision-e-baddream-unrealisticdream-fastnegative-embedding/",
+            "title": "Immagini fotorealistiche con Comfy UI, RealisticVision e BadDream, UnrealisticDream, FastNegative Embedding",
+            "summary": "<p>Sul nostro wiki dedicato a Stable Diffusion è disponibile una guida completa alla creazione di immagini fotorealistiche in ComfyUI. </p>\n",
+            "content_html": "<p>Sul nostro wiki dedicato a Stable Diffusion è disponibile una guida completa alla creazione di immagini fotorealistiche in ComfyUI. </p>\n\n<p>Il flusso di lavoro illustrati può essere preso a modello da chiunque sia alle prime armi con la creazione di immagini attraverso IA Generative Open Source. Questo il link diretto alla guida:</p>\n<ul>\n<li><a href=\"https://github.com/ABA-Sironi-Codex/Stable-Diffusion-Wiki/wiki/Immagini-fotorealistiche-con-Comfy-UI,-RealisticVision-e-BadDream,-UnrealisticDream,-FastNegative-Embedding\">Immagini fotorealistiche con Comfy UI, RealisticVision e BadDream, UnrealisticDream, FastNegative Embedding</a></li>\n</ul>\n<p>Questi sono alcuni esempi dei risultati ottenibili.</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Aggiungi immagini\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://codex.accademiasironi.it/media/posts/5/gallery/006_A.jpg\" data-size=\"640x960\"><img loading=\"lazy\" src=\"https://codex.accademiasironi.it/media/posts/5/gallery/006_A-thumbnail.webp\" alt=\"DeepFake ottenuto con Stable Diffusion e ComfyUI\" width=\"640\" height=\"960\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://codex.accademiasironi.it/media/posts/5/gallery/006_B.jpg\" data-size=\"640x960\"><img loading=\"lazy\" src=\"https://codex.accademiasironi.it/media/posts/5/gallery/006_B-thumbnail.webp\" alt=\"DeepFake ottenuto con Stable Diffusion e ComfyUI\" width=\"640\" height=\"960\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://codex.accademiasironi.it/media/posts/5/gallery/006_C.jpg\" data-size=\"640x960\"><img loading=\"lazy\" src=\"https://codex.accademiasironi.it/media/posts/5/gallery/006_C-thumbnail.webp\" alt=\"DeepFake ottenuto con Stable Diffusion e ComfyUI\" width=\"640\" height=\"960\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://codex.accademiasironi.it/media/posts/5/gallery/006_D.jpg\" data-size=\"640x960\"><img loading=\"lazy\" src=\"https://codex.accademiasironi.it/media/posts/5/gallery/006_D-thumbnail.webp\" alt=\"DeepFake ottenuto con Stable Diffusion e ComfyUI\" width=\"640\" height=\"960\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://codex.accademiasironi.it/media/posts/5/gallery/006_E.jpg\" data-size=\"640x960\"><img loading=\"lazy\" src=\"https://codex.accademiasironi.it/media/posts/5/gallery/006_E-thumbnail.webp\" alt=\"DeepFake ottenuto con Stable Diffusion e ComfyUI\" width=\"640\" height=\"960\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://codex.accademiasironi.it/media/posts/5/gallery/006_F.jpg\" data-size=\"640x960\"><img loading=\"lazy\" src=\"https://codex.accademiasironi.it/media/posts/5/gallery/006_F-thumbnail.webp\" alt=\"DeepFake ottenuto con Stable Diffusion e ComfyUI\" width=\"640\" height=\"960\"></a></figure>\n</div></div>",
+            "image": "https://codex.accademiasironi.it/media/posts/5/006_G.jpg",
+            "author": {
+                "name": "Prof. Davide Riboli"
+            },
+            "tags": [
+                   "stable diffusion",
+                   "intelligenza artificiale",
+                   "comfyui"
+            ],
+            "date_published": "2023-11-02T18:53:00+01:00",
+            "date_modified": "2023-12-11T18:54:30+01:00"
+        },
+        {
+            "id": "https://codex.accademiasironi.it/stable-diffusion-wiki/",
+            "url": "https://codex.accademiasironi.it/stable-diffusion-wiki/",
+            "title": "Stable Diffusion Wiki",
+            "summary": "<p>Sulla nostra Area GitHub è disponibile un nuovo <a href=\"https://github.com/ABA-Sironi-Codex/Stable-Diffusion-Wiki\">repository</a> creato a supporto della collaborazione della Accademia di Belle Arti \"Mario Sironi\" di Sassari con l'iniziativa \"La Scuola del futuro, oggi\", realizzata grazie al PNRR 2023/24.</p>\n",
+            "content_html": "<p>Sulla nostra Area GitHub è disponibile un nuovo <a href=\"https://github.com/ABA-Sironi-Codex/Stable-Diffusion-Wiki\">repository</a> creato a supporto della collaborazione della Accademia di Belle Arti \"Mario Sironi\" di Sassari con l'iniziativa \"La Scuola del futuro, oggi\", realizzata grazie al PNRR 2023/24.</p>\n\n<p>Hanno collaborato i proff. Carta, Ganga e Riboli che, insieme a docenti, formatori e professori di altre istituzioni, hanno tenuto <em>talk</em> e laboratori per avvicinare gli insegnanti sardi di scuola superiore alle IA Generative.</p>\n<p>L'iniziativa, coordinata dal Polo di Formazione OnLife e realizzata col supporto della Università degli Studi di Sassari, si è articolata in giornate di carattere divulgativo/informativo tenutesi a Sassari, Nuoro, Oristano e Cagliari.</p>\n<p>Gli esempi, le risorse e i tutorial contenuti nel <em>repository</em> e presentati attraverso il suo <em>wiki</em> possono essere utili a chiunque voglia avvicinarsi all'uso delle Intelligenze Artificiali Generative Open Source e cerchiamo di mantenerli regolarmente aggiornati. È disponibile anche un'area discussioni per chi ha bisogno di chiedere ulteriori informazioni.</p>\n<p>I contenuti fanno riferimento a diverse tecniche e strumenti, in qualche modo tutti riconducibili ai modelli di <a href=\"https://stability.ai/\">Stability.ai</a>.</p>\n<ul>\n<li><a href=\"https://github.com/ABA-Sironi-Codex/Stable-Diffusion-Wiki\">Stable Diffusion ABA Sironi Wiki</a></li>\n<li><a href=\"https://github.com/ABA-Sironi-Codex/Stable-Diffusion-Wiki/discussions\">Area Discussioni</a></li>\n</ul>\n<p>Per iniziare a comprendere come funzionano <a href=\"https://stability.ai/stable-diffusion\">Stable Diffusion</a> e modelli generativi simili può essere utile muovere i primi passi appoggiandosi a servizi <em>online</em> gratuiti (o quasi).</p>\n<p>L'installazione delle interfacce di controllo in locale o su <em>cloud</em> può risultare complessa per gli <em>absolute beginner</em> e i servizi di carattere professionale hanno costi non trascurabili.</p>\n<p>Questo è un indice di buoni servizi gratuti (o quasi) per muovere i primi passi. Logicamente, nessuno di questi è in grado di offrire le prestazioni di servizi professionali.</p>\n<p>Qui sotto, a titolo di esempio sui contenuti proposti, un esempio di comparazione di <em>output</em> generati da servizi diversi, col medesimo <em>prompt</em>.</p>\n<p class=\"align-center\"><code>anime female mechanical android head with flowers growing out</code></p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Aggiungi immagini\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://codex.accademiasironi.it/media/posts/6/gallery/005_Risorse-StableDiffusion_03.jpg\" data-size=\"1024x1024\"><img loading=\"lazy\" src=\"https://codex.accademiasironi.it/media/posts/6/gallery/005_Risorse-StableDiffusion_03-thumbnail.webp\" alt=\"Dreamstudio\" width=\"749\" height=\"749\"></a>\n<figcaption>Dreamstudio</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://codex.accademiasironi.it/media/posts/6/gallery/005_Risorse-StableDiffusion_01.jpg\" data-size=\"1024x1024\"><img loading=\"lazy\" src=\"https://codex.accademiasironi.it/media/posts/6/gallery/005_Risorse-StableDiffusion_01-thumbnail.webp\" alt=\"Mage Space\" width=\"749\" height=\"749\"></a>\n<figcaption>Mage Space</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://codex.accademiasironi.it/media/posts/6/gallery/005_Risorse-StableDiffusion_02.jpg\" data-size=\"1024x1024\"><img loading=\"lazy\" src=\"https://codex.accademiasironi.it/media/posts/6/gallery/005_Risorse-StableDiffusion_02-thumbnail.webp\" alt=\"Dezgo\" width=\"749\" height=\"749\"></a>\n<figcaption>Dezgo</figcaption>\n</figure>\n</div></div>",
+            "author": {
+                "name": "Prof. Davide Riboli"
+            },
+            "tags": [
+                   "stable diffusion",
+                   "intelligenza artificiale",
+                   "arte generativa"
+            ],
+            "date_published": "2023-11-01T18:59:00+01:00",
+            "date_modified": "2023-12-11T19:12:10+01:00"
+        },
+        {
+            "id": "https://codex.accademiasironi.it/llava-demo/",
+            "url": "https://codex.accademiasironi.it/llava-demo/",
+            "title": "Llava demo",
+            "summary": "<p>Llava (<em>Large Language and Vision Assistant</em>) è un modello multimodale, addestrato da un gruppo di ricercatori Microsoft, in grado di sostenere dialoghi con esseri umani e riconoscere immagini, basato su <a href=\"https://lmsys.org/blog/2023-03-30-vicuna/\">Vicuna</a> un modello linguistico <em>Open Source</em> già in grado di offrire il 90% della \"qualità\" di ChatGPT. </p>\n",
+            "content_html": "<p>Llava (<em>Large Language and Vision Assistant</em>) è un modello multimodale, addestrato da un gruppo di ricercatori Microsoft, in grado di sostenere dialoghi con esseri umani e riconoscere immagini, basato su <a href=\"https://lmsys.org/blog/2023-03-30-vicuna/\">Vicuna</a> un modello linguistico <em>Open Source</em> già in grado di offrire il 90% della \"qualità\" di ChatGPT. </p>\n\n<p><a href=\"https://www.microsoft.com/en-us/research/project/llava-large-language-and-vision-assistant/overview/\">Microsoft</a> ha rilasciato il progetto sotto licenza <em>Open Source</em> e tutta la documentazione, i dati di addestramento e le istruzioni per l'installazione sono su <a href=\"https://github.com/haotian-liu/LLaVA\">GitHub</a>. Le richieste <em>hardware</em> per una installazione non quantizzata sono piuttosto elevate per gli utenti domestici, ma si può comunque testare una demo gratuita.</p>\n<ul>\n<li><a href=\"https://llava.hliu.cc/\" target=\"_blank\" rel=\"noopener\">Llava Demo (apre una nuova finestra)</a></li>\n</ul>\n<p>Ho fatto due test: nel primo ho chiesto a Llava di scrivere in italiano una breve descrizione di sé stesso e questa è la risposta che ho ottenuto.</p>\n<ul>\n<li>\n<p><em>Mi chiamo Vicuna e sono un modello di intelligenza artificiale addestrato per fornire assistenza e rispondere alle domande in modo efficiente e utile. Sono stato creato da un team di esperti di intelligenza artificiale che hanno lavorato duramente per sviluppare un modello che potesse fornire informazioni accurate e pertinenti su una vasta gamma di argomenti.</em></p>\n</li>\n<li>\n<p><em>Il mio addestramento è stato basato su un'enorme quantità di dati provenienti da diverse fonti, tra cui libri, articoli online, siti web e database. Grazie a questa vasta gamma di fonti, sono in grado di fornire informazioni accurate e dettagliate su una vasta gamma di argomenti, dalle scienze alla storia, dalla cultura alla tecnologia.</em></p>\n</li>\n<li>\n<p><em>Il mio obiettivo principale è quello di fornire assistenza e supporto alle persone che hanno domande o problemi. Sono stato progettato per essere accessibile e utile, in modo che le persone possano chiedere le informazioni di cui hanno bisogno senza dover cercare in modo approfondito. Inoltre, posso comunicare in diverse lingue, tra cui l'italiano, il francese e l'inglese, il che rende il mio servizio ancora più accessibile a un pubblico più ampio.</em></p>\n</li>\n<li>\n<p><em>Oltre a fornire informazioni, sono anche in grado di eseguire una serie di compiti, tra cui la generazione di testo, la traduzione ed il riconoscimento immagini. Questi compiti possono essere utili per la creazione di contenuti online, la generazione di report e la creazione di presentazioni.</em></p>\n</li>\n<li>\n<p><em>In sintesi, sono un modello di intelligenza artificiale sempre in evoluzione e in continua migliorazione, il cui obiettivo principale è quello di fornire un servizio utile e di qualità alle persone che lo utilizzano.</em></p>\n</li>\n</ul>\n<p>A parte l'uso di \"migliorazione\" al posto di miglioramento, il risultato è notevole. Nel secondo test ho chiesto (in inglese) a Llava di darmi qualche informazione su questa immagine, che ho generato con una mia IA durante una conferenza che ho tenuto insieme al <a href=\"https://www.accademiavenezia.it/docenti/317\">prof. Baronciani</a> pochi giorni fa. Ho specificatamente chiesto di sapere se riteneva che fosse stata generata da un'altra IA e se vi riconosceva un particolare stile pittorico. Di seguito, le risposte.</p>\n<figure ><figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://codex.accademiasironi.it/media/posts/7/004_LlavaDemo.jpg\" alt=\"Il pescatore, Davide Riboli (Stable Diffusion, 2023)\" width=\"2048\" height=\"2048\" sizes=\"(max-width: 749px) 100vw, 749px\" srcset=\"https://codex.accademiasironi.it/media/posts/7/responsive/004_LlavaDemo-xs.webp 300w ,https://codex.accademiasironi.it/media/posts/7/responsive/004_LlavaDemo-sm.webp 480w ,https://codex.accademiasironi.it/media/posts/7/responsive/004_LlavaDemo-md.webp 749w\"></figure>\n<figcaption ><i>Il pescatore</i>, Davide Riboli (Stable Diffusion, 2023)</figcaption>\n</figure>\n<ul>\n<li>\n<p><em>The image features a serene scene of a lake surrounded by trees, with a bench situated near the water. The bench is positioned under a large tree, providing shade and a peaceful spot to sit and enjoy the view. The lake is calm and reflects the beauty of the surrounding landscape, which includes a mountain range in the distance. The overall atmosphere of the scene is tranquil and inviting, making it an ideal location for relaxation and contemplation.</em></p>\n</li>\n<li>\n<p><em>It is possible that the image is by Alex Colville, as his artwork often features tranquil landscapes and scenes of nature. However, without more information or a clear signature, it is difficult to confirm the artist's identity with certainty.</em></p>\n</li>\n<li>\n<p><em>It is not possible to definitively determine if the image was created by an AI or not, as AI-generated images can be quite realistic and difficult to distinguish from real photographs. However, without more context or information about the image's creation process, it is not possible to say for sure whether it was created by an AI or not.</em></p>\n</li>\n</ul>\n<p>Ho trovato interessante la presenza di una frase come: <em>an ideal location for relaxation and contemplation</em> che mi pare testimoni che, oltre al riconoscimento dei soggetti primi (alberi, lago, sedia), Llava è già in grado di descrivere anche l'atmosfera che una determinata immagine evoca.</p>",
+            "author": {
+                "name": "Prof. Davide Riboli"
+            },
+            "tags": [
+                   "intelligenza artificiale"
+            ],
+            "date_published": "2023-10-18T19:17:00+02:00",
+            "date_modified": "2023-12-11T19:18:43+01:00"
+        },
+        {
+            "id": "https://codex.accademiasironi.it/alea-iacta-est/",
+            "url": "https://codex.accademiasironi.it/alea-iacta-est/",
+            "title": "Alea Iacta Est",
+            "summary": "<p>Ho \"forkato\" (lo so, è un neologismo terribile...), il bel lavoro di <a href=\"https://github.com/GBrachetta\">Guillermo Brachetta</a> che implementa in forma interattiva il famoso <a href=\"https://en.wikipedia.org/wiki/Musikalisches_W%C3%BCrfelspiel\">gioco dei dadi musicali</a> attribuito a Mozart. </p>\n",
+            "content_html": "<p>Ho \"forkato\" (lo so, è un neologismo terribile...), il bel lavoro di <a href=\"https://github.com/GBrachetta\">Guillermo Brachetta</a> che implementa in forma interattiva il famoso <a href=\"https://en.wikipedia.org/wiki/Musikalisches_W%C3%BCrfelspiel\">gioco dei dadi musicali</a> attribuito a Mozart. </p>\n\n<p>Spero di trovare il tempo, più avanti, di cambiare/approfondire, alcune parti della documentazione, ma intanto potete già iniziare a comporre i vostri minuetti generativo-aleatori col sistema che trovate a questo URL: <a href=\"https://aba-sironi-codex.github.io/Musical-Dice/\">https://github.com/ABA-Sironi-Codex/Musical-Dice</a>.</p>\n<p> </p>",
+            "image": "https://codex.accademiasironi.it/media/posts/8/002_GiocoDadiMusicali.jpg",
+            "author": {
+                "name": "Prof. Davide Riboli"
+            },
+            "tags": [
+                   "musica generativa"
+            ],
+            "date_published": "2023-10-05T19:24:00+02:00",
+            "date_modified": "2023-12-11T19:24:15+01:00"
+        }
+    ]
+}

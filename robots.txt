@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://codex.accademiasironi.it/sitemap.xml
