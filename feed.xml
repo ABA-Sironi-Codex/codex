@@ -3,7 +3,7 @@
     <title>Codex</title>
     <link href="https://codex.accademiasironi.it/feed.xml" rel="self" />
     <link href="https://codex.accademiasironi.it" />
-    <updated>2023-12-11T19:29:00+01:00</updated>
+    <updated>2023-12-11T20:35:48+01:00</updated>
     <author>
         <name>Prof. Davide Riboli</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://codex.accademiasironi.it/info/"/>
         <id>https://codex.accademiasironi.it/info/</id>
 
-        <updated>2023-12-11T18:55:58+01:00</updated>
+        <updated>2023-12-11T20:35:48+01:00</updated>
             <summary>
                 <![CDATA[
                     Informazioni generali Codex è un progetto della Accademia di Belle Arti "Mario Sironi" di Sassari che ha lo scopo di archiviare, divulgare e&hellip;
@@ -25,10 +25,21 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <h1>Informazioni generali</h1>
+                <div class="post__toc">
+<h3>Sommario</h3>
+<ul>
+<li><a href="#mcetoc_1hhd60epid">Informazioni generali</a></li>
+<li><a href="#link">Link</a></li>
+<li><a href="#newsletter">Newsletter</a></li>
+<li><a href="#contributi">Contributi</a></li>
+<li><a href="#licenze-duso">Licenze d'uso</a></li>
+<li><a href="#colophon">Colophon</a></li>
+</ul>
+</div>
+<h3 id="mcetoc_1hhd60epid">Informazioni generali</h3>
 <p>Codex è un progetto della <a href="http://accademiasironi.it/">Accademia di Belle Arti "Mario Sironi"</a> di Sassari che ha lo scopo di archiviare, divulgare e sviluppare risorse di Arte Generativa, Creatività Computazionale e, più in generale, qualsiasi altro algoritmo, codice e strumento digitale possa essere utile alla Didattica dell'Arte e alle ricerche collegate.</p>
 <p>Il progetto è stato realizzato nel 2023 dal prof. Davide Riboli, col sostegno e i contributi dei proff. Gian Luca Beccari, Paolo Carta, Daniele Dore, Diego Ganga, Pier Paolo Luvoni, Pietro Pirino e Antonio Salamone.</p>
-<h2 id="link">Link</h2>
+<h3 id="link">Link</h3>
 <p>Il progetto si compone di:</p>
 <ul>
 <li><a href="https://github.com/ABA-Sironi-Codex">Area GitHub</a> - Tutti i <em>repository</em> di codice e risorse ABA Sironi.</li>
@@ -36,11 +47,11 @@
 <li><a href="https://github.com/orgs/ABA-Sironi-Codex/discussions">Area Discussioni</a> - È possibile commentare i singoli articoli del sito (necessario un account GitHub) o segnalare bug di codice nelle aree apposite correlate ad ogni <em>repository</em> oppure scrivendo nella zona commenti di un singolo <em>post</em>.</li>
 <li><a href="https://www.youtube.com/@Codex-ABA-Sironi">Codex YT</a> - Canale YouTube, per la pubblicazione di tutti i video e gli audio contenuti nei post del sito. In via di attivazione.</li>
 </ul>
-<h2 id="newsletter">Newsletter</h2>
+<h3 id="newsletter">Newsletter</h3>
 <p>Per rimanere aggiornati sui contenuti pubblicati, è possibile sottoscrivere l'invio di una <em>newsletter</em>.</p>
 <p>La cadenza di invio è di bassa intensità e non regolare: ogni mese circa o meno. La <em>newsletter</em> non contiene alcuna forma di pubblicità, l'iscrizione può essere cancellata direttamente e, in caso di ripensamenti, riattivata.</p>
 <p>Qui il modulo per iscriversi: <a href="https://forms.gle/uYitLWT8V9AHiD5d9">https://forms.gle/uYitLWT8V9AHiD5d9</a>.</p>
-<h2 id="contributi">Contributi</h2>
+<h3 id="contributi">Contributi</h3>
 <p>Chiunque può proporre la pubblicazione di contributi dopo averli formattati tenendo presenti queste semplici linee guida.</p>
 <ul>
 <li>I testi devono essere formattati in <a href="https://www.markdownguide.org/">markdown</a> e le citazioni secondo lo <a href="https://library.nic.bc.ca/c.php?g=726538&amp;p=5207740">stile MLA</a>.</li>
@@ -48,11 +59,9 @@
 <li>Sono esclusi contributi di carattere non inerente e/o privi di interesse scientifico.</li>
 </ul>
 <p>I contributi vanno inviati a <em>codexATaccademiasironi.it</em> (sostituite AT con @).</p>
-<h2 id="licenze-duso">Licenze d'uso</h2>
+<h3 id="licenze-duso">Licenze d'uso</h3>
 <div class="admonition quote inline end">
-<p class="admonition-title">CreativeCommons License</p>
-<p> </p>
-<p align="center"><a property="dct:title" rel="cc:attributionURL" href="https://codex.accademiasironi.it/">ABA Sironi Codex</a><br>by<br><a href="http://accademiasironi.it/" target="_blank" rel="noopener">Accademia di Belle Arti "Mario Sironi" (Sassari, ITALY)</a><br>is licensed under<br><a href="http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer">Attribution-NonCommercial-NoDerivatives 4.0 International</a></p>
+<p align="center"><a property="dct:title" rel="cc:attributionURL" href="https://codex.accademiasironi.it/">ABA Sironi Codex</a><br>by<br><a href="http://accademiasironi.it/" target="_blank" rel="noopener">Accademia di Belle Arti "Mario Sironi" (Sassari, ITALY)</a><br><em>is licensed under</em><br><a href="http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer">Attribution-NonCommercial-NoDerivatives 4.0 International</a></p>
 <p> </p>
 </div>
 <p>Tutti i contenuti dei <em>post</em> di questo sito, di proprietà della Accademia di Belle Arti "Mario Sironi", vengono pubblicati sotto licenza CreativeCommons di tipo <em>CC BY-NC-ND 4.0 Attribution-NonCommercial-NoDerivatives 4.0 International</em>.</p>
@@ -60,7 +69,7 @@
 <p>Inoltre ai riutilizzatori è concesso copiare e distribuire il materiale su qualsiasi supporto o formato, esclusivamente senza adattamenti d'alcun tipo e solo per scopi non commerciali.</p>
 <p>Il testo esteso della licenza è disponibile a questo link: <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en">https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en</a>.</p>
 <p>Tutti i codici di tutti i <em>repository</em> del progetto contengono sempre la licenza d'uso (di solito, MIT License).</p>
-<h2 id="colophon">Colophon</h2>
+<h3 id="colophon">Colophon</h3>
 <p>Questo sito è stato realizzato nel settembre 2023, utilizzando:</p>
 <ul>
 <li><a href="https://chocolatey.org/">Chocolatey</a></li>
