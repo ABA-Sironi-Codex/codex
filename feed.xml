@@ -3,7 +3,7 @@
     <title>Codex</title>
     <link href="https://codex.accademiasironi.it/feed.xml" rel="self" />
     <link href="https://codex.accademiasironi.it" />
-    <updated>2023-12-11T21:47:52+01:00</updated>
+    <updated>2023-12-11T22:34:57+01:00</updated>
     <author>
         <name>Prof. Davide Riboli</name>
     </author>
@@ -266,7 +266,7 @@
             <category term="Intelligenza Artificiale"/>
             <category term="Arte Generativa"/>
 
-        <updated>2023-12-11T19:12:10+01:00</updated>
+        <updated>2023-12-11T22:34:57+01:00</updated>
             <summary>
                 <![CDATA[
                     <p>Sulla nostra Area GitHub è disponibile un nuovo <a href="https://github.com/ABA-Sironi-Codex/Stable-Diffusion-Wiki">repository</a> creato a supporto della collaborazione della Accademia di Belle Arti "Mario Sironi" di Sassari con l'iniziativa "La Scuola del futuro, oggi", realizzata grazie al PNRR 2023/24.</p>
@@ -289,7 +289,7 @@
 <p>L'installazione delle interfacce di controllo in locale o su <em>cloud</em> può risultare complessa per gli <em>absolute beginner</em> e i servizi di carattere professionale hanno costi non trascurabili.</p>
 <p>Questo è un indice di buoni servizi gratuti (o quasi) per muovere i primi passi. Logicamente, nessuno di questi è in grado di offrire le prestazioni di servizi professionali.</p>
 <p>Qui sotto, a titolo di esempio sui contenuti proposti, un esempio di comparazione di <em>output</em> generati da servizi diversi, col medesimo <em>prompt</em>.</p>
-<p class="align-center"><code>anime female mechanical android head with flowers growing out</code></p>
+<pre class="bash"><code>anime female mechanical android head with flowers growing out</code></pre>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Aggiungi immagini" data-columns="3">
 <figure class="gallery__item"><a href="https://codex.accademiasironi.it/media/posts/6/gallery/005_Risorse-StableDiffusion_03.jpg" data-size="1024x1024"><img loading="lazy" src="https://codex.accademiasironi.it/media/posts/6/gallery/005_Risorse-StableDiffusion_03-thumbnail.webp" alt="Dreamstudio" width="749" height="749"></a>
 <figcaption>Dreamstudio</figcaption>
