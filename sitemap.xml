@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://codex.accademiasironi.it/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://codex.accademiasironi.it/</loc>
+</url>
+<url>
+<loc>https://codex.accademiasironi.it/alea-iacta-est/</loc>
+<lastmod>2023-12-11T19:24:15+01:00</lastmod>
+<image:image>
+<image:loc>https://codex.accademiasironi.it/media/posts/8/002_GiocoDadiMusicali.jpg</image:loc>
+<image:title><![CDATA[Musica Dice Interactive GUI]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://codex.accademiasironi.it/ex-machina-intelligenza-artificiale-e-creativita-computazionale/</loc>
+<lastmod>2023-12-11T18:55:04+01:00</lastmod>
+</url>
+<url>
+<loc>https://codex.accademiasironi.it/guida-alla-installazione-veloce-di-automatic1111/</loc>
+<lastmod>2023-12-11T19:29:00+01:00</lastmod>
+<image:image>
+<image:loc>https://codex.accademiasironi.it/media/posts/2/011_GuidaInstallazioniStableD-2.webp</image:loc>
+<image:title><![CDATA[Automatic1111 GUI]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://codex.accademiasironi.it/immagini-fotorealistiche-con-comfy-ui-realisticvision-e-baddream-unrealisticdream-fastnegative-embedding/</loc>
+<lastmod>2023-12-11T18:54:30+01:00</lastmod>
+<image:image>
+<image:loc>https://codex.accademiasironi.it/media/posts/5/006_G.jpg</image:loc>
+<image:title><![CDATA[Deepfake ottenuto con Stable Diffusion e ComfyUI]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://codex.accademiasironi.it/media/posts/5/gallery/006_A-thumbnail.jpg</image:loc>
+<image:title><![CDATA[DeepFake ottenuto con Stable Diffusion e ComfyUI]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://codex.accademiasironi.it/media/posts/5/gallery/006_B-thumbnail.jpg</image:loc>
+<image:title><![CDATA[DeepFake ottenuto con Stable Diffusion e ComfyUI]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://codex.accademiasironi.it/media/posts/5/gallery/006_C-thumbnail.jpg</image:loc>
+<image:title><![CDATA[DeepFake ottenuto con Stable Diffusion e ComfyUI]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://codex.accademiasironi.it/media/posts/5/gallery/006_D-thumbnail.jpg</image:loc>
+<image:title><![CDATA[DeepFake ottenuto con Stable Diffusion e ComfyUI]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://codex.accademiasironi.it/media/posts/5/gallery/006_E-thumbnail.jpg</image:loc>
+<image:title><![CDATA[DeepFake ottenuto con Stable Diffusion e ComfyUI]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://codex.accademiasironi.it/media/posts/5/gallery/006_F-thumbnail.jpg</image:loc>
+<image:title><![CDATA[DeepFake ottenuto con Stable Diffusion e ComfyUI]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://codex.accademiasironi.it/incontri-di-arte-generativa/</loc>
+<lastmod>2023-12-11T18:55:14+01:00</lastmod>
+<image:image>
+<image:loc>https://codex.accademiasironi.it/media/posts/3/010_LezioniArteGenerativa-2.webp</image:loc>
+<image:title><![CDATA[Double Pendulum Light Art]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://codex.accademiasironi.it/info/</loc>
+<lastmod>2023-12-11T18:55:58+01:00</lastmod>
+</url>
+<url>
+<loc>https://codex.accademiasironi.it/llava-demo/</loc>
+<lastmod>2023-12-11T19:18:43+01:00</lastmod>
+<image:image>
+<image:loc>https://codex.accademiasironi.it/media/posts/7/004_LlavaDemo.jpg</image:loc>
+<image:title><![CDATA[Il pescatore, Davide Riboli (Stable Diffusion, 2023)]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://codex.accademiasironi.it/stable-diffusion-wiki/</loc>
+<lastmod>2023-12-11T19:12:10+01:00</lastmod>
+<image:image>
+<image:loc>https://codex.accademiasironi.it/media/posts/6/gallery/005_Risorse-StableDiffusion_03-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Dreamstudio]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://codex.accademiasironi.it/media/posts/6/gallery/005_Risorse-StableDiffusion_01-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Mage Space]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://codex.accademiasironi.it/media/posts/6/gallery/005_Risorse-StableDiffusion_02-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Dezgo]]></image:title>
+</image:image>
+</url>
+</urlset>
