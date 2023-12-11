@@ -3,12 +3,38 @@
     <title>Codex</title>
     <link href="https://codex.accademiasironi.it/feed.xml" rel="self" />
     <link href="https://codex.accademiasironi.it" />
-    <updated>2023-12-11T20:35:48+01:00</updated>
+    <updated>2023-12-11T21:47:52+01:00</updated>
     <author>
         <name>Prof. Davide Riboli</name>
     </author>
     <id>https://codex.accademiasironi.it</id>
 
+    <entry>
+        <title>Un vestito nuovo</title>
+        <author>
+            <name>Prof. Davide Riboli</name>
+        </author>
+        <link href="https://codex.accademiasironi.it/un-vestito-nuovo/"/>
+        <id>https://codex.accademiasironi.it/un-vestito-nuovo/</id>
+            <category term="Blog"/>
+
+        <updated>2023-12-11T21:47:52+01:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Questa sera abbiamo ultimato il passaggio ad un nuovo sistema di pubblicazione.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Questa sera abbiamo ultimato il passaggio ad un nuovo sistema di pubblicazione.</p>
+
+<p>Niente di speciale: dal pur ottimo <a href="https://squidfunk.github.io/mkdocs-material/" title="Material 4 Mk Docs" target="_blank" rel="nofollow noopener noreferrer">Material 4 Mk Docs</a> siamo passati a <a href="https://getpublii.com/" title="Publii" target="_blank" rel="nofollow noopener noreferrer">Publii </a>che offre una maggiore libertà nella formattazione grafica finale (anche l'occhio vuole la sua parte).</p>
+
+<p>Il passaggio è stato ragionevolmente indolore grazie all'adozione di <a href="https://www.markdownguide.org/" title="Markdown " target="_blank" rel="nofollow noopener noreferrer">Markdown </a>per i contenuti e di <a href="https://pages.github.com/" title="GithubPages " target="_blank" rel="nofollow noopener noreferrer">GithubPages </a>come sistema di pubblicazione. Se qualcosa non va, i commenti sono a vostra disposizione per le segnalazioni : )</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Info</title>
         <author>
@@ -101,8 +127,8 @@
         <link href="https://codex.accademiasironi.it/guida-alla-installazione-veloce-di-automatic1111/"/>
         <id>https://codex.accademiasironi.it/guida-alla-installazione-veloce-di-automatic1111/</id>
         <media:content url="https://codex.accademiasironi.it/media/posts/2/011_GuidaInstallazioniStableD-2.webp" medium="image" />
-            <category term="stable diffusion"/>
-            <category term="automatic1111"/>
+            <category term="Stable Diffusion"/>
+            <category term="Automatic1111"/>
 
         <updated>2023-12-11T19:29:00+01:00</updated>
             <summary>
@@ -131,12 +157,12 @@
         <link href="https://codex.accademiasironi.it/incontri-di-arte-generativa/"/>
         <id>https://codex.accademiasironi.it/incontri-di-arte-generativa/</id>
         <media:content url="https://codex.accademiasironi.it/media/posts/3/010_LezioniArteGenerativa-2.webp" medium="image" />
-            <category term="videomapping"/>
-            <category term="touchdesigner"/>
-            <category term="resolume"/>
-            <category term="musica generativa"/>
-            <category term="madmapper"/>
-            <category term="arte generativa"/>
+            <category term="VideoMapping"/>
+            <category term="Touchdesigner"/>
+            <category term="Resolume"/>
+            <category term="Musica Generativa"/>
+            <category term="Madmapper"/>
+            <category term="Arte Generativa"/>
 
         <updated>2023-12-11T18:55:14+01:00</updated>
             <summary>
@@ -167,10 +193,10 @@
         </author>
         <link href="https://codex.accademiasironi.it/ex-machina-intelligenza-artificiale-e-creativita-computazionale/"/>
         <id>https://codex.accademiasironi.it/ex-machina-intelligenza-artificiale-e-creativita-computazionale/</id>
-            <category term="stable diffusion"/>
-            <category term="musica generativa"/>
-            <category term="intelligenza artificiale"/>
-            <category term="arte generativa"/>
+            <category term="Stable Diffusion"/>
+            <category term="Musica Generativa"/>
+            <category term="Intelligenza Artificiale"/>
+            <category term="Arte Generativa"/>
 
         <updated>2023-12-11T18:55:04+01:00</updated>
             <summary>
@@ -196,9 +222,9 @@
         <link href="https://codex.accademiasironi.it/immagini-fotorealistiche-con-comfy-ui-realisticvision-e-baddream-unrealisticdream-fastnegative-embedding/"/>
         <id>https://codex.accademiasironi.it/immagini-fotorealistiche-con-comfy-ui-realisticvision-e-baddream-unrealisticdream-fastnegative-embedding/</id>
         <media:content url="https://codex.accademiasironi.it/media/posts/5/006_G.jpg" medium="image" />
-            <category term="stable diffusion"/>
-            <category term="intelligenza artificiale"/>
-            <category term="comfyui"/>
+            <category term="Stable Diffusion"/>
+            <category term="Intelligenza Artificiale"/>
+            <category term="Comfy UI"/>
 
         <updated>2023-12-11T18:54:30+01:00</updated>
             <summary>
@@ -236,9 +262,9 @@
         </author>
         <link href="https://codex.accademiasironi.it/stable-diffusion-wiki/"/>
         <id>https://codex.accademiasironi.it/stable-diffusion-wiki/</id>
-            <category term="stable diffusion"/>
-            <category term="intelligenza artificiale"/>
-            <category term="arte generativa"/>
+            <category term="Stable Diffusion"/>
+            <category term="Intelligenza Artificiale"/>
+            <category term="Arte Generativa"/>
 
         <updated>2023-12-11T19:12:10+01:00</updated>
             <summary>
@@ -285,7 +311,7 @@
         </author>
         <link href="https://codex.accademiasironi.it/llava-demo/"/>
         <id>https://codex.accademiasironi.it/llava-demo/</id>
-            <category term="intelligenza artificiale"/>
+            <category term="Intelligenza Artificiale"/>
 
         <updated>2023-12-11T19:18:43+01:00</updated>
             <summary>
@@ -347,7 +373,7 @@
         <link href="https://codex.accademiasironi.it/alea-iacta-est/"/>
         <id>https://codex.accademiasironi.it/alea-iacta-est/</id>
         <media:content url="https://codex.accademiasironi.it/media/posts/8/002_GiocoDadiMusicali.jpg" medium="image" />
-            <category term="musica generativa"/>
+            <category term="Musica Generativa"/>
 
         <updated>2023-12-11T19:24:15+01:00</updated>
             <summary>
