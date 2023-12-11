@@ -15,7 +15,8 @@
             "url": "https://codex.accademiasironi.it/un-vestito-nuovo/",
             "title": "Un vestito nuovo",
             "summary": "<p>Questa sera abbiamo ultimato il passaggio ad un nuovo sistema di pubblicazione.</p>\n",
-            "content_html": "<p>Questa sera abbiamo ultimato il passaggio ad un nuovo sistema di pubblicazione.</p>\n\n<p>Niente di speciale: dal pur ottimo <a href=\"https://squidfunk.github.io/mkdocs-material/\" title=\"Material 4 Mk Docs\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Material 4 Mk Docs</a> siamo passati a <a href=\"https://getpublii.com/\" title=\"Publii\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Publii </a>che offre una maggiore libertà nella formattazione grafica finale (anche l'occhio vuole la sua parte).</p>\n\n<p>Il passaggio è stato ragionevolmente indolore grazie all'adozione di <a href=\"https://www.markdownguide.org/\" title=\"Markdown \" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Markdown </a>per i contenuti e di <a href=\"https://pages.github.com/\" title=\"GithubPages \" target=\"_blank\" rel=\"nofollow noopener noreferrer\">GithubPages </a>come sistema di pubblicazione. Se qualcosa non va, i commenti sono a vostra disposizione per le segnalazioni : )</p>",
+            "content_html": "<p>Questa sera abbiamo ultimato il passaggio ad un nuovo sistema di pubblicazione.</p>\n\n<p>Niente di speciale: dal pur ottimo <a href=\"https://squidfunk.github.io/mkdocs-material/\" title=\"Material 4 Mk Docs\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Material 4 Mk Docs</a> siamo passati a <a href=\"https://getpublii.com/\" title=\"Publii\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Publii </a>che offre una maggiore libertà nella formattazione grafica finale (anche l'occhio vuole la sua parte).</p>\n\n<p>Il passaggio è stato ragionevolmente indolore grazie all'adozione di <a href=\"https://www.markdownguide.org/\" title=\"Markdown \" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Markdown </a>per i contenuti e di <a href=\"https://pages.github.com/\" title=\"GithubPages \" target=\"_blank\" rel=\"nofollow noopener noreferrer\">GithubPages </a>come sistema di pubblicazione e a giudicare dal punteggio che ci assegna <a href=\"https://pagespeed.web.dev/\" title=\"Pagespeed\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Pagespeed</a> tutto è andato per il meglio. In ogni caso, se qualcosa non va, i commenti sono a vostra disposizione per le segnalazioni : )</p>",
+            "image": "https://codex.accademiasironi.it/media/posts/9/100.png",
             "author": {
                 "name": "Prof. Davide Riboli"
             },
@@ -23,7 +24,7 @@
                    "Blog"
             ],
             "date_published": "2023-12-11T21:47:52+01:00",
-            "date_modified": "2023-12-11T21:47:52+01:00"
+            "date_modified": "2023-12-11T22:59:44+01:00"
         },
         {
             "id": "https://codex.accademiasironi.it/info/",
