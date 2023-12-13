@@ -3,7 +3,7 @@
     <title>Codex</title>
     <link href="https://codex.accademiasironi.it/feed.xml" rel="self" />
     <link href="https://codex.accademiasironi.it" />
-    <updated>2023-12-13T00:10:38+01:00</updated>
+    <updated>2023-12-13T01:11:11+01:00</updated>
     <author>
         <name>Prof. Davide Riboli</name>
     </author>
@@ -123,7 +123,7 @@
         </content>
     </entry>
     <entry>
-        <title>Guida alla installazione veloce di Automatic1111</title>
+        <title>Guida alla installazione veloce di Automatic1111 (Windows+Nvidia GPU)</title>
         <author>
             <name>Prof. Davide Riboli</name>
         </author>
@@ -133,21 +133,62 @@
             <category term="Stable Diffusion"/>
             <category term="Automatic1111"/>
 
-        <updated>2023-12-11T19:29:00+01:00</updated>
+        <updated>2023-12-13T01:11:11+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://codex.accademiasironi.it/media/posts/2/011_GuidaInstallazioniStableD-2.webp" alt="Automatic1111 GUI" />
-                    <p>Sul <a href="https://github.com/ABA-Sironi-Codex/Stable-Diffusion-Wiki/wiki">wiki ABA Sironi dedicato a Stable Diffusion</a> e alle sue varie interfacce di controllo è disponnibile una guida all'installazione di Automatic1111 sotto Ms Windows con GPU Nvidia.</p>
+                    <p><a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui" target="_blank" rel="nofollow noopener noreferrer">Automatic1111 Web UI</a> - spesso abbreviata in Automatic1111 o A1111 - è una delle più diffuse interfacce di controllo per <a href="https://stability.ai/stable-diffusion" target="_blank" rel="nofollow noopener noreferrer">Stable Diffusion</a>. Oltre alle consuete operazioni di generazione <em>Text-2-Image</em>, la sua struttura modulare permette una infinità di operazioni accessorie come, solo per fare alcuni esempi, la generazione di matrici di miniature per confrontare la differenza ottenuta con la variazione di questo o quel parametro, la creazione di video e di musica, etc.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://codex.accademiasironi.it/media/posts/2/011_GuidaInstallazioniStableD-2.webp" class="type:primaryImage" alt="Automatic1111 GUI" /></p>
-                <p>Sul <a href="https://github.com/ABA-Sironi-Codex/Stable-Diffusion-Wiki/wiki">wiki ABA Sironi dedicato a Stable Diffusion</a> e alle sue varie interfacce di controllo è disponnibile una guida all'installazione di Automatic1111 sotto Ms Windows con GPU Nvidia.</p>
+                <p><a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui" target="_blank" rel="nofollow noopener noreferrer">Automatic1111 Web UI</a> - spesso abbreviata in Automatic1111 o A1111 - è una delle più diffuse interfacce di controllo per <a href="https://stability.ai/stable-diffusion" target="_blank" rel="nofollow noopener noreferrer">Stable Diffusion</a>. Oltre alle consuete operazioni di generazione <em>Text-2-Image</em>, la sua struttura modulare permette una infinità di operazioni accessorie come, solo per fare alcuni esempi, la generazione di matrici di miniature per confrontare la differenza ottenuta con la variazione di questo o quel parametro, la creazione di video e di musica, etc.</p>
 
+<div class="post__toc">
+<h3>Sommario</h3>
 <ul>
-<li>Link diretto: <a href="https://github.com/ABA-Sironi-Codex/Stable-Diffusion-Wiki/wiki/Installazioni-veloci-Windows-(GPU-Nvidia)">https://github.com/ABA-Sironi-Codex/Stable-Diffusion-Wiki/wiki/Installazioni-veloci-Windows-(GPU-Nvidia)</a></li>
+<li><a href="#mcetoc_1hhg849ibci">Installazione su Ms Windows con GPU Nvidia</a></li>
+<li><a href="#mcetoc_1hhg849ibcj">Configurazioni extra via COMMANDLINE_ARGS</a></li>
+<li><a href="#mcetoc_1hhg849ibck">Risoluzione dei problemi</a></li>
+<li><a href="#mcetoc_1hhg849ibcl">Installazione su Ms Windows con GPU AMD</a></li>
+<li><a href="#mcetoc_1hhg849ibcm">Installazione su Apple Macintosh</a></li>
+</ul>
+</div>
+<p>Il <em>repository </em>ufficiale contiene istruzioni molto dettagliate sugli step di installazione sotto qualsiasi genere di sistema operativo. Queste procedure variano (o potrebbero variare) ad ogni nuovo rilascio e si consiglia di verificarle direttamente alla fonte.<a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki" target="_blank" rel="nofollow noopener noreferrer"></a></p>
+<ul>
+<li><a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki" target="_blank" rel="nofollow noopener noreferrer">A1111 Installation Instructions</a></li>
+</ul>
+<p>Quelle che seguono sono le istruzioni per installazioni rapide su computer i cui requisiti si sia certi che soddisfano le richieste del sistema.</p>
+<h3 id="mcetoc_1hhg849ibci">Installazione su Ms Windows con GPU Nvidia</h3>
+<ol>
+<li>Scaricate il file <em>sd.webui.zip</em> da <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui/releases/tag/v1.0.0-pre" target="_blank" rel="nofollow noopener noreferrer">qui </a>(probabilmente andrà aggiornato, ma lo faremo al punto 3).</li>
+<li>Estrarre il file zip nella posizione desiderata.</li>
+<li>Doppio clic su <em>update.bat</em> per aggiornare tutto all'ultima versione, attendere il completamento dell'operazione e chiudere la finestra.</li>
+<li>Doppio clic su <em>run.bat</em> per avviare l'interfaccia web; durante il primo avvio verrà scaricata una grande quantità di file. Dopo che tutto è stato scaricato e installato correttamente, dovrebbe apparire il messaggio<em> Esecuzione su URL locale: http://127.0.0.1:7860</em>; aprendo il link si accede all'interfaccia di controllo ed è possibile iniziare a generare immagini su <em>prompt </em>di testo.</li>
+</ol>
+<h3 id="mcetoc_1hhg849ibcj">Configurazioni extra via COMMANDLINE_ARGS</h3>
+<p>È possibile configurare alcune opzioni modificando lo <em>script </em>di lancio che si trova in <em>sd.webui\webui\webui-user.bat</em>, aggiungendo gli argomenti desiderati dopo <em>COMMANDLINE_ARGS=</em>. Ad esempio:</p>
+<pre class="bash"><code>set COMMANDLINE_ARGS=--autolaunch --update-check</code></pre>
+<p>configura l'interfaccia in modo che venga avviata automaticamente la pagina del browser al termine del caricamento e che venga verificata la presenza di aggiornamenti all'avvio.</p>
+<h3 id="mcetoc_1hhg849ibck">Risoluzione dei problemi</h3>
+<p>La configurazione predefinita dell'interfaccia web dovrebbe funzionare sulla maggior parte delle moderne GPU, ma in alcuni casi potrebbero essere necessari alcuni argomenti aggiuntivi.</p>
+<ul>
+<li>Per le GPU con una quantità inferiore di VRAM, potrebbero essere necessari <em>--medvram</em> o <em>--lowvram</em>; queste ottimizzazioni riducono i requisiti di VRAM, sacrificando proporzionalmente le prestazioni. Se la VRAM non è sufficiente, l'interfaccia web potrebbe rifiutarsi di avviarsi o non generare immagini a causa di un errore di esaurimento della memoria. La quantità di VRAM richiesta dipende in larga misura dalla risoluzione dell'immagine desiderata; per maggiori dettagli, consultate la pagina di <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Troubleshooting" target="_blank" rel="nofollow noopener noreferrer">Troubleshooting ufficiale</a>. Anche l'estensione <a href="https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111" target="_blank" rel="nofollow noopener noreferrer">Tiled VAE</a> può aiutare a ridurre i requisiti di VRAM.</li>
+<li>Se le immagini generate sono neri o verdi, provare ad aggiungere <em>--precision full</em> e <em>--no-half</em> ai parametri di lancio.</li>
+<li>Alcune combinazioni di modello/VAE sono inclini all'errore <em>NansException: A tensor with all NaNs was produced in VAE</em> che finisce col dar luogo a un'immagine nera; l'uso dell'opzione <em>--no-half-vae</em> può contribuire a mitigare il problema.</li>
+<li>Per ulteriori ottimizzazioni consultate le pagine ufficiali <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Optimizations" rel="nofollow">Optimization</a> e <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Command-Line-Arguments-and-Settings" target="_blank" rel="nofollow noopener noreferrer">Command Line Arguments and Setting</a>.</li>
+</ul>
+<h3 id="mcetoc_1hhg849ibcl">Installazione su Ms Windows con GPU AMD</h3>
+<p>Per il momento, A1111 non supporta ufficialmente AMD. È comunque possibile riuscire a installarne una versione sperimentale attraverso il <em>fork</em> creato da Lshqqytiger. Il repository offre anche una guida molto dettagliata.</p>
+<ul>
+<li><a href="https://github.com/lshqqytiger/stable-diffusion-webui-directml" target="_blank" rel="nofollow noopener noreferrer">Lshqqytiger Stable-Diffusion-WebUI-DirectMl</a></li>
+</ul>
+<h3 id="mcetoc_1hhg849ibcm">Installazione su Apple Macintosh</h3>
+<p>L'installazione sotto Mac è possibile, ma richiede molti passaggi intermedi. Fate riferimento alla guida ufficiale:</p>
+<ul>
+<li><a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Installation-on-Apple-Silicon" target="_blank" rel="nofollow noopener noreferrer">Installation on Apple Silicon</a><br><br><br><br></li>
 </ul>
             ]]>
         </content>
