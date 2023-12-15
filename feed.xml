@@ -3,7 +3,7 @@
     <title>Codex</title>
     <link href="https://codex.accademiasironi.it/feed.xml" rel="self" />
     <link href="https://codex.accademiasironi.it" />
-    <updated>2023-12-13T10:16:42+01:00</updated>
+    <updated>2023-12-15T16:42:37+01:00</updated>
     <author>
         <name>Prof. Davide Riboli</name>
     </author>
@@ -20,7 +20,7 @@
             <category term="Intelligenza Artificiale"/>
             <category term="ChatGPT"/>
 
-        <updated>2023-12-13T10:16:42+01:00</updated>
+        <updated>2023-12-15T16:28:50+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://codex.accademiasironi.it/media/posts/10/277195.png" alt="ChatGPT Prompt samples" />
@@ -97,7 +97,9 @@
 <figure class="gallery__item"><a href="https://codex.accademiasironi.it/media/posts/10/gallery/Screen2.jpeg" data-size="2057x947"><img loading="lazy" src="https://codex.accademiasironi.it/media/posts/10/gallery/Screen2-thumbnail.webp" alt="ChatGPT contesto di prompt" width="749" height="345"></a></figure>
 </div></div>
 <h3 id="mcetoc_1hhh7864m10d">Ulteriori approfondimenti ed esempi</h3>
-<p>Sezione in compilazione...</p>
+<ul>
+<li><a href="https://platform.openai.com/docs/guides/prompt-engineering" target="_blank" rel="nofollow noopener noreferrer">ChatGPT Official OpenAi Prompting Guide</a></li>
+</ul>
             ]]>
         </content>
     </entry>
@@ -138,7 +140,7 @@
         <link href="https://codex.accademiasironi.it/info/"/>
         <id>https://codex.accademiasironi.it/info/</id>
 
-        <updated>2023-12-13T00:10:38+01:00</updated>
+        <updated>2023-12-15T16:42:37+01:00</updated>
             <summary>
                 <![CDATA[
                     Informazioni generali Codex è un progetto della Accademia di Belle Arti "Mario Sironi" di Sassari che ha lo scopo di archiviare, divulgare e&hellip;
@@ -149,7 +151,7 @@
                 <div class="post__toc">
 <h3>Sommario</h3>
 <ul>
-<li><a href="#mcetoc_1hhd60epid">Informazioni generali</a></li>
+<li><a href="#info">Informazioni generali</a></li>
 <li><a href="#link">Link</a></li>
 <li><a href="#newsletter">Newsletter</a></li>
 <li><a href="#contributi">Contributi</a></li>
@@ -157,7 +159,7 @@
 <li><a href="#colophon">Colophon</a></li>
 </ul>
 </div>
-<h3 id="mcetoc_1hhd60epid">Informazioni generali</h3>
+<h3 id="info">Informazioni generali</h3>
 <p>Codex è un progetto della <a href="http://accademiasironi.it/">Accademia di Belle Arti "Mario Sironi"</a> di Sassari che ha lo scopo di archiviare, divulgare e sviluppare risorse di Arte Generativa, Creatività Computazionale e, più in generale, qualsiasi altro algoritmo, codice e strumento digitale possa essere utile alla Didattica dell'Arte e alle ricerche collegate.</p>
 <p>Il progetto è stato realizzato nel 2023 dal prof. Davide Riboli, col sostegno e i contributi dei proff. Gian Luca Beccari, Paolo Carta, Daniele Dore, Diego Ganga, Pier Paolo Luvoni, Pietro Pirino e Antonio Salamone.</p>
 <h3 id="link">Link</h3>
@@ -181,10 +183,9 @@
 </ul>
 <p>I contributi vanno inviati a <em>codexATaccademiasironi.it</em> (sostituite AT con @).</p>
 <h3 id="licenze-duso">Licenze d'uso</h3>
-<div class="admonition quote inline end">
-<p align="center"><a property="dct:title" rel="cc:attributionURL" href="https://codex.accademiasironi.it/">ABA Sironi Codex</a><br>by<br><a href="http://accademiasironi.it/" target="_blank" rel="noopener">Accademia di Belle Arti "Mario Sironi" (Sassari, ITALY)</a><br><em>is licensed under</em><br><a href="http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer">Attribution-NonCommercial-NoDerivatives 4.0 International</a></p>
-<p> </p>
-</div>
+<aside class="post__note">
+<p class="align-center"><a href="https://codex.accademiasironi.it/">ABA Sironi Codex</a><br>by<br><a href="http://accademiasironi.it/" target="_blank" rel="noopener">Accademia di Belle Arti "Mario Sironi" (Sassari, ITALY)</a><br><em>is licensed under</em><br><a href="http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer">Attribution-NonCommercial-NoDerivatives 4.0 International</a></p>
+</aside>
 <p>Tutti i contenuti dei <em>post</em> di questo sito, di proprietà della Accademia di Belle Arti "Mario Sironi", vengono pubblicati sotto licenza CreativeCommons di tipo <em>CC BY-NC-ND 4.0 Attribution-NonCommercial-NoDerivatives 4.0 International</em>.</p>
 <p>Questo significa che la licenza impone, nel caso di riutilizzo, che i riutilizzatori citino sempre la fonte (questo sito: <a href="https://codex.accademiasironi.it/">https://codex.accademiasironi.it</a>).</p>
 <p>Inoltre ai riutilizzatori è concesso copiare e distribuire il materiale su qualsiasi supporto o formato, esclusivamente senza adattamenti d'alcun tipo e solo per scopi non commerciali.</p>
