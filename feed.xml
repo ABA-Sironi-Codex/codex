@@ -3,12 +3,163 @@
     <title>Codex</title>
     <link href="https://codex.accademiasironi.it/feed.xml" rel="self" />
     <link href="https://codex.accademiasironi.it" />
-    <updated>2023-12-15T16:42:37+01:00</updated>
+    <updated>2024-02-16T12:44:42+01:00</updated>
     <author>
         <name>Prof. Davide Riboli</name>
     </author>
     <id>https://codex.accademiasironi.it</id>
 
+    <entry>
+        <title>Se non sai dirlo, non sai farlo</title>
+        <author>
+            <name>Prof. Davide Riboli</name>
+        </author>
+        <link href="https://codex.accademiasironi.it/se-non-sai-dirlo-non-sai-farlo/"/>
+        <id>https://codex.accademiasironi.it/se-non-sai-dirlo-non-sai-farlo/</id>
+            <category term="Intelligenza Artificiale"/>
+
+        <updated>2024-02-16T12:44:42+01:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Modelli come <a data-tooltip-position="top" aria-label="https://openai.com/dall-e-2/" rel="noopener" class="external-link" href="https://openai.com/dall-e-2/" target="_blank">DALL-E 2</a>, <a data-tooltip-position="top" aria-label="https://www.midjourney.com/home" rel="noopener" class="external-link" href="https://www.midjourney.com/home" target="_blank">Midjourney</a> e <a data-tooltip-position="top" aria-label="https://stablediffusionweb.com/" rel="noopener" class="external-link" href="https://stablediffusionweb.com/" target="_blank">Stable Diffusion</a> permettono di ottenere immagini realistiche e creative a partire da semplici descrizioni testuali. Alla base di questa capacità ci sono i concetti di <em>prompt positivo</em> e <em>negativo</em>. Questo articolo affronta la definizione di tali concetti e propone alcuni spunti di riflessione in merito allo stato di fatto e ai suoi possibili sviluppi.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Modelli come <a data-tooltip-position="top" aria-label="https://openai.com/dall-e-2/" rel="noopener" class="external-link" href="https://openai.com/dall-e-2/" target="_blank">DALL-E 2</a>, <a data-tooltip-position="top" aria-label="https://www.midjourney.com/home" rel="noopener" class="external-link" href="https://www.midjourney.com/home" target="_blank">Midjourney</a> e <a data-tooltip-position="top" aria-label="https://stablediffusionweb.com/" rel="noopener" class="external-link" href="https://stablediffusionweb.com/" target="_blank">Stable Diffusion</a> permettono di ottenere immagini realistiche e creative a partire da semplici descrizioni testuali. Alla base di questa capacità ci sono i concetti di <em>prompt positivo</em> e <em>negativo</em>. Questo articolo affronta la definizione di tali concetti e propone alcuni spunti di riflessione in merito allo stato di fatto e ai suoi possibili sviluppi.</p>
+
+<aside class="post__note">
+<ul>
+<li>6/7 min. di lettura</li>
+</ul>
+</aside>
+<div>
+<h5 data-heading="Tu Vuò Fà L'Ammericano">Tu Vuò Fà L'Ammericano</h5>
+</div>
+<div>
+<p>Tutti gli esempi riportati nell'articolo sono in inglese perché, sebbene i principali sistemi generativi accettino anche <em>prompt</em> in italiano, i risultati migliori si ottengono costruendo i comandi nella loro lingua madre.</p>
+<div>
+<h5 data-heading="La Via del Rinoceronte">La Via del Rinoceronte</h5>
+</div>
+<div>
+<p>Le vicende del <em>Rinoceronte</em> di Dürer sono note: nel 1515, anno in cui Dürer realizzò la sua famosa stampa, l'animale era sconosciuto in Europa e l'autore non aveva mai avuto occasione di vederne uno, ma ne conobbe la descrizione contenuta in una lettera inviata da Lisbona a Norimberga e su questa base eseguì l'incisione con la tecnica della xilografia su legno. A distanza di 500 anni, abbiamo elevato una fortuita coincidenza a metodo creativo.</p>
+<figure ><figure class="post__image post__image--center"><img loading="lazy"  src="https://codex.accademiasironi.it/media/posts/12/Rhino.jpg" alt="Rinoceronte, Albrecht Dürer (1515)" width="1280" height="1014" sizes="(max-width: 749px) 100vw, 749px" srcset="https://codex.accademiasironi.it/media/posts/12/responsive/Rhino-xs.webp 300w ,https://codex.accademiasironi.it/media/posts/12/responsive/Rhino-sm.webp 480w ,https://codex.accademiasironi.it/media/posts/12/responsive/Rhino-md.webp 749w"></figure>
+<figcaption ><em>Rinoceronte</em>, Albrecht Dürer (1515)</figcaption>
+</figure>
+<div>
+<p>Un <em>prompt</em>, nel contesto delle Intelligenze Artificiali Generative, è un'istruzione in linguaggio naturale che fornisce al sistema le informazioni necessarie per creare un'immagine.</p>
+</div>
+<div>
+<p>La descrizione dell'immagine che si vuole ottenere è un <em>prompt positivo</em>. Ad esempio, se vogliamo generare immagini di paesaggi montani, un <em>prompt positivo</em> potrebbe essere:</p>
+</div>
+<div>
+<p><code>Mountain landscape with blue sky and some trees around the shore of a lake</code></p>
+<figure ><figure class="post__image post__image--center"><img loading="lazy"  src="https://codex.accademiasironi.it/media/posts/12/ComfyUI-Cloud-2.png" alt="Immagine ottenuta dall'autore, utilizzando Stable Diffusion e ComfyUI." width="512" height="512" sizes="(max-width: 749px) 100vw, 749px" srcset="https://codex.accademiasironi.it/media/posts/12/responsive/ComfyUI-Cloud-2-xs.webp 300w ,https://codex.accademiasironi.it/media/posts/12/responsive/ComfyUI-Cloud-2-sm.webp 480w ,https://codex.accademiasironi.it/media/posts/12/responsive/ComfyUI-Cloud-2-md.webp 749w"></figure>
+<figcaption >Immagine dell'autore, ottenuta utilizzando il <em>prompt positivo</em> indicato in Stable Diffusion e <a data-tooltip-position="top" aria-label="https://github.com/comfyanonymous/ComfyUI" rel="noopener" class="external-link" href="https://github.com/comfyanonymous/ComfyUI" target="_blank">ComfyUI</a>.</figcaption>
+</figure>
+<div>
+<p>In questo caso, molto elementare, il <em>prompt positivo</em> specifica le caratteristiche desiderate dell'immagine, come il tipo di paesaggio, i colori predominanti e gli elementi presenti.</p>
+</div>
+<div>
+<p>Anche un <em>prompt negativo</em> è una istruzione in linguaggio naturale, che descrive però gli aspetti da evitare nell'immagine.</p>
+</div>
+<div>
+<p>Ad esempio, riutilizzando il <em>prompt positivo</em> dell'immagine precedente e aggiungendone uno negativo, composto solo dai termini <code>cloud</code> e <code>clouds</code>, otteniamo un risultato molto simile, ma con un cielo privo di nubi.</p>
+</div>
+<figure ><figure class="post__image post__image--center"><img loading="lazy"  src="https://codex.accademiasironi.it/media/posts/12/ComfyUI-NoCloud.png" alt="Immagine ottenuta dall'autore, utilizzando Stable Diffusion e ComfyUI." width="512" height="512" sizes="(max-width: 749px) 100vw, 749px" srcset="https://codex.accademiasironi.it/media/posts/12/responsive/ComfyUI-NoCloud-xs.webp 300w ,https://codex.accademiasironi.it/media/posts/12/responsive/ComfyUI-NoCloud-sm.webp 480w ,https://codex.accademiasironi.it/media/posts/12/responsive/ComfyUI-NoCloud-md.webp 749w"></figure>
+<figcaption >Immagine dell'autore, ottenuta utilizzando <em>prompt positivo</em> e <em>negativo</em> con Stable Diffusion e ComfyUI.</figcaption>
+</figure>
+<div>
+<p>Non tutti i modelli comprendono e interpretano correttamente i <em>prompt negativi</em>. Ad esempio Stable Diffusion XL, che pure dovrebbe supportarli, appare a volte piuttosto impermeabile alle dichiarazioni negative, per <a data-tooltip-position="top" aria-label="https://github.com/easydiffusion/easydiffusion/issues/809" rel="noopener" class="external-link" href="https://github.com/easydiffusion/easydiffusion/issues/809" target="_blank">motivi non ancora chiarissimi</a>.</p>
+</div>
+<div>
+<p>I <em>prompt positivi</em>, se correttamente formulati, non debbono necessariamente raffigurare situazioni "sensate": anche la surreale richiesta di un cavallo in una tuta da astronauta viene correttamente interpretata.</p>
+<figure ><figure class="post__image post__image--center"><img loading="lazy"  src="https://codex.accademiasironi.it/media/posts/12/AstronautHorse.png" alt="Dall-E 2 (immagine di repertorio)" width="1096" height="636" sizes="(max-width: 749px) 100vw, 749px" srcset="https://codex.accademiasironi.it/media/posts/12/responsive/AstronautHorse-xs.webp 300w ,https://codex.accademiasironi.it/media/posts/12/responsive/AstronautHorse-sm.webp 480w ,https://codex.accademiasironi.it/media/posts/12/responsive/AstronautHorse-md.webp 749w"></figure>
+<figcaption >
+<div>
+<p><em>Full body photo of a horse in a space suit</em>, Kenneth x Dall-E (2023, immagine di repertorio)</p>
+</div>
+<div> </div>
+</figcaption>
+</figure>
+<div>
+<p>La sola cosa importante è che i <em>prompt</em> siano formulati in modo sufficientemente chiaro per essere intesi senza fraintendimenti dal modello in uso. Più il <em>prompt</em> è preciso e migliore sarà l'immagine generata.</p>
+</div>
+<div>
+<h5 data-heading="Il peso del gatto e quello di Picasso">Il peso del gatto e quello di Picasso</h5>
+</div>
+<div>
+<p>Quasi tutti i sistemi e i modelli più avanzati permettono di raffinare i risultati ottenibili attraverso l'uso di "pesi" — ovvero valori numerici che vanno riportati in modi specifici e variabili da modello a modello — che indicano quanta attenzione deve essere riservata ad un determinato soggetto, in relazione agli altri componenti dell'immagine.</p>
+<p>Ad esempio, usando un <em>prompt</em> molto semplice come <code>A cat by Picasso</code> in Midjourney, si ottiene un risultato simile.</p>
+</div>
+<figure ><figure class="post__image post__image--center"><img loading="lazy"  src="https://codex.accademiasironi.it/media/posts/12/gattopicasso0.webp" alt="Immagine tratta dall'articolo &quot;Using Weights in Midjourney Prompts – Promptcraft for Beginners&quot;, pubblicata col permesso della autrice." width="512" height="512" sizes="(max-width: 749px) 100vw, 749px" srcset="https://codex.accademiasironi.it/media/posts/12/responsive/gattopicasso0-xs.webp 300w ,https://codex.accademiasironi.it/media/posts/12/responsive/gattopicasso0-sm.webp 480w ,https://codex.accademiasironi.it/media/posts/12/responsive/gattopicasso0-md.webp 749w"></figure>
+<figcaption >Immagine tratta dall'articolo "<a data-tooltip-position="top" aria-label="https://estoodio.com/using-weights-in-midjourney-prompts-promptcraft-for-beginners/" rel="noopener" class="external-link" href="https://estoodio.com/using-weights-in-midjourney-prompts-promptcraft-for-beginners/" target="_blank">Using Weights in Midjourney Prompts – Promptcraft for Beginners</a>", pubblicata col permesso della autrice.</figcaption>
+</figure>
+<p>Midjourney comprende il <em>prompt</em> e decide autonomamente da quanto "gatto" e da quanto "Picasso" deve essere composta l'immagine. Ma se scriviamo invece: <code>A cat:: by Picasso::</code> imponiamo a Midjourney di dare la medesima importanza ai due termini fondamentali e i risultati ottenuti esprimono in maniera più chiara lo stile del pittore.</p>
+</div>
+<figure ><figure class="post__image post__image--center"><img loading="lazy"  src="https://codex.accademiasironi.it/media/posts/12/gattopicasso1.webp" alt="Immagine tratta dall'articolo Using Weights in Midjourney Prompts – Promptcraft for Beginners, pubblicata col permesso della autrice." width="512" height="512" sizes="(max-width: 749px) 100vw, 749px" srcset="https://codex.accademiasironi.it/media/posts/12/responsive/gattopicasso1-xs.webp 300w ,https://codex.accademiasironi.it/media/posts/12/responsive/gattopicasso1-sm.webp 480w ,https://codex.accademiasironi.it/media/posts/12/responsive/gattopicasso1-md.webp 749w"></figure>
+<figcaption >Immagine tratta dall'articolo "Using Weights in Midjourney Prompts – Promptcraft for Beginners", pubblicata col permesso della autrice</figcaption>
+</figure>
+<p>Se poi usiamo <code>A cat:: by Picasso::.5</code> dimezziamo il peso di "Picasso" in relazione a quello di "gatto" e i risultati ottenuti, pur mantenendo una certa riconoscibilità stilistica, esprimono con forza minore l'influenza dell'autore di riferimento.</p>
+<figure ><figure class="post__image post__image--center"><img loading="lazy"  src="https://codex.accademiasironi.it/media/posts/12/gattopicasso5.webp" alt="Immagine tratta dall'articolo &quot;Using Weights in Midjourney Prompts – Promptcraft for Beginners&quot; col permesso della autrice, pubblicata col permesso della autrice." width="512" height="512" sizes="(max-width: 749px) 100vw, 749px" srcset="https://codex.accademiasironi.it/media/posts/12/responsive/gattopicasso5-xs.webp 300w ,https://codex.accademiasironi.it/media/posts/12/responsive/gattopicasso5-sm.webp 480w ,https://codex.accademiasironi.it/media/posts/12/responsive/gattopicasso5-md.webp 749w"></figure>
+<figcaption >Immagine tratta dall'articolo "Using Weights in Midjourney Prompts – Promptcraft for Beginners" col permesso della autrice, pubblicata col permesso della autrice.</figcaption>
+</figure>
+<div>
+<p>I pesi possono essere applicati tanto ai <em>prompt positivi</em> quanto ai <em>prompt negativi</em> e ogni modello usa sintassi sue proprie, di solito facilmente rinvenibili nella manualistica di riferimento.</p>
+</div>
+<div>
+<h5 data-heading="Prompt Engineering e olio di serpente">Prompt Engineering e olio di serpente</h5>
+</div>
+<div>
+<p>Da quanto esposto sinora, dovrebbe apparire chiaro come la formulazione di un <em>prompt</em> davvero efficace sia cruciale per ottenere risultati specifici e da qualche tempo si è iniziato a considerare il <em>prompt engineering</em>, ovvero l'insieme dei metodi e dei processi di progettazione e formulazione di <em>prompt</em>, come di una vera e propria disciplina che potrebbe prefigurare una professione completamente nuova.</p>
+</div>
+<div>
+<p>A centinaia di <a data-tooltip-position="top" aria-label="https://duckduckgo.com/?q=prompt+engineering+tutorial&amp;t=ftsa&amp;ia=web" rel="noopener" class="external-link" href="https://duckduckgo.com/?q=prompt+engineering+tutorial&amp;t=ftsa&amp;ia=web" target="_blank">siti</a> che promettono il "copia&amp;incolla" definitivo, si sono affiancati altrettanti <a data-tooltip-position="top" aria-label="https://duckduckgo.com/?q=prompt+engineering+manual&amp;t=ftsa&amp;ia=web" rel="noopener" class="external-link" href="https://duckduckgo.com/?q=prompt+engineering+manual&amp;t=ftsa&amp;ia=web" target="_blank">libri</a> e <a data-tooltip-position="top" aria-label="https://duckduckgo.com/?t=ftsa&amp;q=prompt+engineering+course&amp;ia=web" rel="noopener" class="external-link" href="https://duckduckgo.com/?t=ftsa&amp;q=prompt+engineering+course&amp;ia=web" target="_blank">corsi specifici</a>.</p>
+</div>
+<div>
+<p>Ma nella gran parte dei casi, tutte queste offerte sono poco più di quel che negli Stati Uniti viene chiamato "olio di serpente": marketing al limite del truffaldino che propone prodotti inefficaci, quando non dannosi.</p>
+<figure ><figure class="post__image post__image--center"><img loading="lazy"  src="https://codex.accademiasironi.it/media/posts/12/SnakeOil.png" alt="Immagine ottenuta dall'autore con Stable Diffusion e ComfyUI." width="512" height="512" sizes="(max-width: 749px) 100vw, 749px" srcset="https://codex.accademiasironi.it/media/posts/12/responsive/SnakeOil-xs.webp 300w ,https://codex.accademiasironi.it/media/posts/12/responsive/SnakeOil-sm.webp 480w ,https://codex.accademiasironi.it/media/posts/12/responsive/SnakeOil-md.webp 749w"></figure>
+<figcaption >Immagine ottenuta dall'autore con Stable Diffusion e ComfyUI, utilizzando il <em>prompt positivo</em> <code>A vintage snake oil bottle with some leaflets</code>.</figcaption>
+</figure>
+<div>
+<p>La verità è che l'unico metodo per costruire <em>prompt</em> efficaci si compone di tre soli elementi: cultura nell'ambito di riferimento, buona padronanza linguistica e una pazienza a prova di bomba.</p>
+</div>
+<div>
+<p>L'esigenza di una solida cultura non dovrebbe avere bisogno di molte spiegazioni: se avete necessità di ottenere l'immagine di un quadro che evochi lo stile di Turner e non siete in grado di ricordare almeno qualche sua opera e qualche artista suo coetaneo, sarà difficile che riusciate a ottenere quello che state cercando.</p>
+</div>
+<div>
+<p>Allo stesso modo, se non avete sufficiente padronanza linguistica per sapere esprimere con precisione l'idea che vi abita, sarà improbabile che riuscirete a trasformarla in una immagine condivisibile.</p>
+</div>
+<div>
+<p>La pazienza e un pizzico d'intuito vi saranno poi necessari per comprendere eventuali blocchi nella comunicazione col sistema e il metodo migliore per rimuoverli o aggirarli, mentre state battendo la pista in caccia di una preda avvistata, ma non ancora afferrata.</p>
+</div>
+<div>
+<p>Non esistono parole o combinazioni di parole standard che possano garantire risultati certi, un po' come non esistono più <em>keyword</em> che possano garantire in eterno il primo posto sulla pagina dei risultati di Google. E per quanto riguarda il <em>prompt engineering</em> come professione del futuro, dovrebbe bastare la lettura di questo <a data-tooltip-position="top" aria-label="https://hbr.org/2023/06/ai-prompt-engineering-isnt-the-future" rel="noopener" class="external-link" href="https://hbr.org/2023/06/ai-prompt-engineering-isnt-the-future" target="_blank">articolo del prof Oguz A. Acar</a>, titolare della cattedra di Marketing presso la King's Business School al King's College di Londra. Meglio scommettere su qualcosa di più solido...</p>
+</div>
+<div>
+<p>Logicamente, la lettura della documentazione di riferimento è sempre obbligatoria, ad esempio per saper controllare bene i pesi dei soggetti, ma ciò di cui avrete davvero bisogno per scrivere un buon <em>prompt</em> sono un grande amore verso Arte e Cultura, la curiosità d'un bambino e la tenacia di un cane da tartufi.</p>
+</div>
+<div>
+<p>Amore per Arte e Cultura, gioiosa curiosità e tenacia nella ricerca dei risultati non sono qualità molto diffuse di questi tempi e ciò potrebbe spiegare perché, pur disponendo di strumenti tanto potenti da sembrare quasi magici, per ora ne stiamo cavando soprattutto banalità. Il <em>fake</em> di una personalità pubblica lo può generare qualsiasi sciocco, in pochi istanti, ma quanti saprebbero costruire il <em>prompt</em> corretto per ottenere qualcosa di simile ai quadri di <a data-tooltip-position="top" aria-label="https://wolfevonlenkiewicz.com/" rel="noopener" class="external-link" href="https://wolfevonlenkiewicz.com/" target="_blank">Wolfe von Lenkiewicz</a>?</p>
+<figure ><figure class="post__image post__image--center"><img loading="lazy"  src="https://codex.accademiasironi.it/media/posts/12/wolfevonlenkiewicz-wolfe-von-lenkiewicz-sea-horse-2023.webp" alt="Sea Horse, Wolfe von Lenkiewicz (2023). Immagine generata con ComfyUI e Stable Diffusion." width="1056" height="1320" sizes="(max-width: 749px) 100vw, 749px" srcset="https://codex.accademiasironi.it/media/posts/12/responsive/wolfevonlenkiewicz-wolfe-von-lenkiewicz-sea-horse-2023-xs.webp 300w ,https://codex.accademiasironi.it/media/posts/12/responsive/wolfevonlenkiewicz-wolfe-von-lenkiewicz-sea-horse-2023-sm.webp 480w ,https://codex.accademiasironi.it/media/posts/12/responsive/wolfevonlenkiewicz-wolfe-von-lenkiewicz-sea-horse-2023-md.webp 749w"></figure>
+<figcaption ><em>Sea Horse</em>, Wolfe von Lenkiewicz (2023). Immagine generata con ComfyUI e Stable Diffusion.</figcaption>
+</figure>
+<div>
+<p>Aiutare la maturazione delle capacità necessarie a saper dire correttamente ciò che si vorrebbe fare mi sembra un ottimo punto di partenza per una didattica in questo ambito.</p>
+</div>
+<div>
+<p>Il resto, è tutto da inventare.</p>
+</div>
+</div>
+<p> </p>
+</div>
+</div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Linee guida per la composizione di prompt efficaci in ChatGPT</title>
         <author>
@@ -499,34 +650,6 @@
 </li>
 </ul>
 <p>Ho trovato interessante la presenza di una frase come: <em>an ideal location for relaxation and contemplation</em> che mi pare testimoni che, oltre al riconoscimento dei soggetti primi (alberi, lago, sedia), Llava è già in grado di descrivere anche l'atmosfera che una determinata immagine evoca.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Alea Iacta Est</title>
-        <author>
-            <name>Prof. Davide Riboli</name>
-        </author>
-        <link href="https://codex.accademiasironi.it/alea-iacta-est/"/>
-        <id>https://codex.accademiasironi.it/alea-iacta-est/</id>
-        <media:content url="https://codex.accademiasironi.it/media/posts/8/002_GiocoDadiMusicali.jpg" medium="image" />
-            <category term="Musica Generativa"/>
-
-        <updated>2023-12-11T19:24:15+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://codex.accademiasironi.it/media/posts/8/002_GiocoDadiMusicali.jpg" alt="Musica Dice Interactive GUI" />
-                    <p>Ho "forkato" (lo so, è un neologismo terribile...), il bel lavoro di <a href="https://github.com/GBrachetta">Guillermo Brachetta</a> che implementa in forma interattiva il famoso <a href="https://en.wikipedia.org/wiki/Musikalisches_W%C3%BCrfelspiel">gioco dei dadi musicali</a> attribuito a Mozart. </p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://codex.accademiasironi.it/media/posts/8/002_GiocoDadiMusicali.jpg" class="type:primaryImage" alt="Musica Dice Interactive GUI" /></p>
-                <p>Ho "forkato" (lo so, è un neologismo terribile...), il bel lavoro di <a href="https://github.com/GBrachetta">Guillermo Brachetta</a> che implementa in forma interattiva il famoso <a href="https://en.wikipedia.org/wiki/Musikalisches_W%C3%BCrfelspiel">gioco dei dadi musicali</a> attribuito a Mozart. </p>
-
-<p>Spero di trovare il tempo, più avanti, di cambiare/approfondire, alcune parti della documentazione, ma intanto potete già iniziare a comporre i vostri minuetti generativo-aleatori col sistema che trovate a questo URL: <a href="https://aba-sironi-codex.github.io/Musical-Dice/">https://github.com/ABA-Sironi-Codex/Musical-Dice</a>.</p>
-<p> </p>
             ]]>
         </content>
     </entry>
